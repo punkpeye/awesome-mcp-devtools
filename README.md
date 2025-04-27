@@ -111,7 +111,9 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
-- [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests 
+- [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
+- [strowk/synf](https://github.com/strowk/synf) 🦀 – Tool to hot-reload MCP server on changes to saved files
+- [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ – Tool to proxy MCP and log inputs and outputs to YAML file
 
 ## Resources
 
