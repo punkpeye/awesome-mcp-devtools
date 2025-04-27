@@ -2,8 +2,6 @@
 
 A curated list of developer tools, SDKs, libraries, utilities, and resources for working with **Model Context Protocol (MCP)** servers.
 
----
-
 ## Contents
 
 - [SDKs](#sdks)
