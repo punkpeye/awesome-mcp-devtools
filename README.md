@@ -1,5 +1,8 @@
 # Awesome MCP DevTools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
+
 A curated list of developer tools, SDKs, libraries, utilities, and resources for working with **Model Context Protocol (MCP)** servers.
 
 ## Contents
