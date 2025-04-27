@@ -123,6 +123,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
+- [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
 
 ### Development Tools
 
