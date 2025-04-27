@@ -13,6 +13,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [Testing Tools](#testing-tools)
 - [Build Tools](#build-tools)
 - [Utilities](#utilities)
+- [Hosting](#hosting)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 
@@ -115,6 +116,12 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests 
+
+## Hosting
+
+> Libraries & platforms for hosting MCP servers.
+
+- [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
 
 ## Resources
 
