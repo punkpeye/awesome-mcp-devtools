@@ -38,12 +38,16 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 ## SDKs
 
-<!-- SDKs are ordered by their popularity as determined by GitHub stars. -->
-<!-- If an SDK is part of a monorepo, it should have a name in the form of `github-owner/github-repo#project-name` -->
-<!-- If an SDK is part of a monorepo, its popularity is counted as 0 stars. -->
-
-
 > Software Development Kits for MCP server development.
+
+<details><summary>How are SDKs ordered?</summary>
+
+SDKs are ordered by their popularity as determined by GitHub stars.
+
+If an SDK is part of a monorepo, it should have a name in the form of `github-owner/github-repo#project-name`.
+
+If an SDK is part of a monorepo, its popularity is counted as 0 stars.
+</details>
 
 ### JavaScript/TypeScript
 
