@@ -15,6 +15,11 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 ---
 
+## Community
+
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
+* [Discord Server](https://glama.ai/mcp/discord)
+
 ## Legend
 
 * programming language
