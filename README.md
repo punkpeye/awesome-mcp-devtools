@@ -14,6 +14,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [Build Tools](#build-tools)
 - [Utilities](#utilities)
 - [Hosting](#hosting)
+- [Templates](#templates)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 
@@ -151,6 +152,13 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 > Libraries & platforms for hosting MCP servers.
 
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
+
+## Templates
+
+> Example code ready to be made into a component of an MCP system.
+
+- [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
+
 
 ## Resources
 
