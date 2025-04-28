@@ -35,6 +35,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 📇 – TypeScript codebase
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
+  * 🎯 - Dart codebase
 
 ## SDKs
 
@@ -79,14 +80,20 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [poem-web/poem#poem-mcpserver](https://github.com/poem-web/poem/tree/master/poem-mcpserver) 🦀 - MCP Server implementation for Poem
 
 ### Kotlin
+
 - [http4k MCP SDK](https://mcp.http4k.org) 🔶 - Functional, testable Kotlin SDK based around the popular [http4k](https://http4k.org) Web toolkit
 
 ### C#/.NET
+
 - [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣ - A C# SDK for building MCP servers on .NET 9 with NativeAOT compatibility ⚡ 🔌
 
 ### Scala
 
 - [mullerhai/sakura-mcp](https://github.com/mullerhai/sakura-mcp) 〽️ - Scala MCP Framework for Building effective agents with MCP servers and clients
+
+### Dart
+
+- [leehack/mcp_dart](https://github.com/leehack/mcp_dart/) 🎯 - This library aims to provide a simple and intuitive way to implement MCP servers and clients in Dart 
 
 ## Frameworks
 
