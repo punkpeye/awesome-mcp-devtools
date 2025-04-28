@@ -108,7 +108,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 > Reusable code libraries and components for MCP servers
 
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) 📇 - CodeMirror extension that implements MCP for resource mentions and prompt commands
-- [jhgaylor/express-mcp-handlder] 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
+- [jhgaylor/express-mcp-handlder](https://github.com/jhgaylor/express-mcp-handler) 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
 - [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – Tool to automate the registration of functions and classes from a Python package into a FastMCP instance
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – Use MCP provided tools in LangChain.js
 
