@@ -14,6 +14,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [Build Tools](#build-tools)
 - [Utilities](#utilities)
 - [Hosting](#hosting)
+- [Templates](#templates)
 - [Resources](#resources)
 - [Tutorials](#tutorials)
 
