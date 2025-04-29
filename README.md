@@ -7,16 +7,30 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 ## Contents
 
-- [SDKs](#sdks)
-- [Libraries](#libraries)
-- [Frameworks](#frameworks)
-- [Testing Tools](#testing-tools)
-- [Build Tools](#build-tools)
-- [Utilities](#utilities)
-- [Hosting](#hosting)
-- [Templates](#templates)
-- [Resources](#resources)
-- [Tutorials](#tutorials)
+* [Contents](#contents)
+* [Community](#community)
+* [Legend](#legend)
+* [SDKs](#sdks)
+  * [JavaScript/TypeScript](#javascripttypescript)
+  * [Python](#python)
+  * [Java](#java)
+  * [Go](#go)
+  * [Rust](#rust)
+  * [Kotlin](#kotlin)
+  * [C#/.NET](#cnet)
+  * [Scala](#scala)
+  * [Dart](#dart)
+* [Frameworks](#frameworks)
+* [Testing Tools](#testing-tools)
+* [Libraries](#libraries)
+* [Utilities](#utilities)
+  * [Proxies and Gateways](#proxies-and-gateways)
+  * [Development Tools](#development-tools)
+* [Hosting](#hosting)
+* [Templates](#templates)
+* [Resources](#resources)
+* [Tutorials](#tutorials)
+* [Related awesome lists:](#related-awesome-lists)
 
 ---
 
@@ -145,6 +159,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
 - [StacklokLabs/toolhive](https://github.com/StacklokLabs/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
 
 
 ## Hosting
