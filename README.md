@@ -123,6 +123,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
 
+- [Official MCP Inspector](https://github.com/modelcontextprotocol/inspector) 🖥️ - UI for testing MCP servers.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 
 ## Libraries
