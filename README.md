@@ -143,6 +143,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Proxies and Gateways
 
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🖥️ - A MCP Server that allows access to gRPC API services.
+- [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
