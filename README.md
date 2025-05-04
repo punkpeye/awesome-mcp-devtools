@@ -12,7 +12,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [Frameworks](#frameworks)
 - [Testing Tools](#testing-tools)
 - [Build Tools](#build-tools)
-- [Utilities](#utilities)F
+- [Utilities](#utilities)
 - [Hosting](#hosting)
 - [Templates](#templates)
 - [Resources](#resources)
