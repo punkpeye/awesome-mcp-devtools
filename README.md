@@ -12,7 +12,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 - [Frameworks](#frameworks)
 - [Testing Tools](#testing-tools)
 - [Build Tools](#build-tools)
-- [Utilities](#utilities)
+- [Utilities](#utilities)F
 - [Hosting](#hosting)
 - [Templates](#templates)
 - [Resources](#resources)
@@ -105,7 +105,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [sendaifun/solana-agent-kit#agent-kit-mcp-server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - Solana MCP SDK
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
-- [p-funk/FEGIS](https://github.com/p-funk/FEGIS) 🤖 🔌 - Create interactive agents that transform simple ad-hoc prompting into augmented LLM interaction.
+- [p-funk/FEGIS](https://github.com/p-funk/FEGIS) 🐍 - Create interactive agents that transform simple ad-hoc prompting into augmented LLM interaction.
 
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
@@ -127,7 +127,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 ### Proxies and Gateways
 
-- [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🖥️ - A MCP Server that allows access to gRPC API services.
+- [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
