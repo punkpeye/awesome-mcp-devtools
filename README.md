@@ -7,16 +7,30 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 ## Contents
 
-- [SDKs](#sdks)
-- [Libraries](#libraries)
-- [Frameworks](#frameworks)
-- [Testing Tools](#testing-tools)
-- [Build Tools](#build-tools)
-- [Utilities](#utilities)
-- [Hosting](#hosting)
-- [Templates](#templates)
-- [Resources](#resources)
-- [Tutorials](#tutorials)
+* [Contents](#contents)
+* [Community](#community)
+* [Legend](#legend)
+* [SDKs](#sdks)
+  * [JavaScript/TypeScript](#javascripttypescript)
+  * [Python](#python)
+  * [Java](#java)
+  * [Go](#go)
+  * [Rust](#rust)
+  * [Kotlin](#kotlin)
+  * [C#/.NET](#cnet)
+  * [Scala](#scala)
+  * [Dart](#dart)
+* [Frameworks](#frameworks)
+* [Testing Tools](#testing-tools)
+* [Libraries](#libraries)
+* [Utilities](#utilities)
+  * [Proxies and Gateways](#proxies-and-gateways)
+  * [Development Tools](#development-tools)
+* [Hosting](#hosting)
+* [Templates](#templates)
+* [Resources](#resources)
+* [Tutorials](#tutorials)
+* [Related awesome lists:](#related-awesome-lists)
 
 ---
 
@@ -27,6 +41,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 ## Legend
 
+* 🎖️ official MCP resource
 * programming language
   * #️⃣ - C# Codebase
   * 〽️ – Scala codebase
@@ -110,6 +125,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
 
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 
 ## Libraries
@@ -128,14 +144,16 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Proxies and Gateways
 
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
-- [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
+- [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
+- [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
+- [hamidra/yamcp](https://github.com/hamidra/yamcp) 📇 - An MCP workspace manager to bundle and manage MCP servers in dedicated local workspaces (e.g., for coding, design, research).
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
+- [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
+- [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
+- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
-- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
-- [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
-- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
-- [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
 
 ### Development Tools
 
@@ -146,6 +164,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
 - [StacklokLabs/toolhive](https://github.com/StacklokLabs/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
 
 
 ## Hosting
