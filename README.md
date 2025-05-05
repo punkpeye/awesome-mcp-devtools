@@ -79,6 +79,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [langchain-mcp](https://github.com/rectalogic/langchain-mcp) 🐍 - Provides MCP tool calling support in LangChain
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)  🐍 - Provides MCP wrapping on top of existing FastAPI REST endpoints
+- [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
 
 ### Java
 
@@ -127,6 +128,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 > Tools for testing MCP servers and clients 
 
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
+- [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 
 ## Libraries
@@ -173,6 +175,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 > Libraries & platforms for hosting MCP servers.
 
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
+- [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 
 ## Templates
 
