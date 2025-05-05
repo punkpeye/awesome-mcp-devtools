@@ -167,7 +167,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
 - [StacklokLabs/toolhive](https://github.com/StacklokLabs/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
-
+- [amirshk/mcp-secrets-plugin](https://github.com/amirshk/mcp-secrets-plugin) - A reference code to securely store and retrieve sensitive information using the system's native keychain
 
 ## Hosting
 
