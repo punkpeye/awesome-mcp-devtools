@@ -78,6 +78,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [langchain-mcp](https://github.com/rectalogic/langchain-mcp) 🐍 - Provides MCP tool calling support in LangChain
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp)  🐍 - Provides MCP wrapping on top of existing FastAPI REST endpoints
 - [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
 
 ### Java
