@@ -22,6 +22,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [Dart](#dart)
 * [Frameworks](#frameworks)
 * [Testing Tools](#testing-tools)
+  * [Authorization Testing](#authorization-testing)
 * [Libraries](#libraries)
 * [Utilities](#utilities)
   * [Proxies and Gateways](#proxies-and-gateways)
@@ -131,6 +132,17 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
+
+### Authorization Testing
+> Resources for testing MCP servers with authentication and authorization
+
+- [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
+- [modelcontextprotocol/python-sdk#610](https://github.com/modelcontextprotocol/python-sdk/pull/610) 🐍 🎖️ - Reference implementation of an authenticated SSE server in the official Python SDK
+
+Public test endpoints:
+- [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
+- [Sentry MCP Server](https://mcp.sentry.dev/sse) - Production SSE endpoint for testing OAuth flows  
+- [Jira MCP Server](https://mcp.atlassian.com/v1/sse) - Production SSE endpoint for testing OAuth flows (requires allowlisting)
 
 ## Libraries
 
