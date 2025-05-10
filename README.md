@@ -137,12 +137,12 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 > Resources for testing MCP servers with authentication and authorization
 
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
-- [modelcontextprotocol/python-sdk#610](https://github.com/modelcontextprotocol/python-sdk/pull/610) 🐍 🎖️ - Reference implementation of an authenticated SSE server in the official Python SDK
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
 
 Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
 - [Sentry MCP Server](https://mcp.sentry.dev/sse) - Production SSE endpoint for testing OAuth flows  
-- [Jira MCP Server](https://mcp.atlassian.com/v1/sse) - Production SSE endpoint for testing OAuth flows (requires allowlisting)
+- [Atlassian MCP Server](https://mcp.atlassian.com/v1/sse) - Production SSE endpoint for testing OAuth flows (requires allowlisting)
 
 ## Libraries
 
