@@ -20,6 +20,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [C#/.NET](#cnet)
   * [Scala](#scala)
   * [Dart](#dart)
+  * [Ruby](#ruby)
 * [Frameworks](#frameworks)
 * [Testing Tools](#testing-tools)
   * [Authorization Testing](#authorization-testing)
@@ -114,6 +115,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Dart
 
 - [leehack/mcp_dart](https://github.com/leehack/mcp_dart/) 🎯 - This library aims to provide a simple and intuitive way to implement MCP servers and clients in Dart 
+
+### Ruby
+
+- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
 
 ## Frameworks
 
