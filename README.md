@@ -20,6 +20,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [C#/.NET](#cnet)
   * [Scala](#scala)
   * [Dart](#dart)
+  * [Ruby](#ruby)
 * [Frameworks](#frameworks)
 * [Testing Tools](#testing-tools)
   * [Authorization Testing](#authorization-testing)
@@ -115,6 +116,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [leehack/mcp_dart](https://github.com/leehack/mcp_dart/) 🎯 - This library aims to provide a simple and intuitive way to implement MCP servers and clients in Dart 
 
+### Ruby
+
+- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
+
 ## Frameworks
 
 > High-level frameworks for working with MCP servers
@@ -152,6 +157,7 @@ Public test endpoints:
 - [jhgaylor/express-mcp-handlder](https://github.com/jhgaylor/express-mcp-handler) 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
 - [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – Tool to automate the registration of functions and classes from a Python package into a FastMCP instance
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – Use MCP provided tools in LangChain.js
+- [traceloop/openllmetry#opentelemetry-instrumentation-mcp](https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-mcp) 🐍 - OpenTelemetry instrumentation for MCP Python that captures tool calls, notifications, listing, initialization handshakes and propagates traces from client to server.
 
 ## Utilities
 
@@ -173,6 +179,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
