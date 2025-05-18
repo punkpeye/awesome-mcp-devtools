@@ -21,6 +21,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [Scala](#scala)
   * [Dart](#dart)
   * [Ruby](#ruby)
+  * [C/C++](#cc)
 * [Frameworks](#frameworks)
 * [Testing Tools](#testing-tools)
   * [Authorization Testing](#authorization-testing)
@@ -55,6 +56,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 📇 – TypeScript codebase
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
+  * 🌊 – C/C++ codebase
 
 ## SDKs
 
@@ -120,6 +122,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Ruby
 
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
+
+### C/C++
+
+- [micl2e2/mcpc](https://github.com/micl2e2/mcpc) 🌊 - Modern C SDK for building MCP servers/clients.
 
 ## Frameworks
 
