@@ -225,8 +225,7 @@ Public test endpoints:
 
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 * [amirshk/mcp-secrets-plugin](https://github.com/amirshk/mcp-secrets-plugin) 🐍 - A reference code to securely store and retrieve sensitive information using the system's native keychain
-* [AI Agents from begginers by Microsoft](https://youtu.be/OhI005_aJkA?si=4nclgu-qAGgM57RJ) 🐍#️⃣ - Full Course (Lessons 1-10) AI Agents for Beginners using Semantic Kernel (Theorical and practical content of 1 hour)
----
+* [AI Agents from begginers](https://youtu.be/OhI005_aJkA?si=4nclgu-qAGgM57RJ) 🐍#️⃣ - Full Course (Lessons 1-10) AI Agents for Beginners 
 
 ## Related awesome lists:
 
