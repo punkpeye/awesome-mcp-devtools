@@ -22,6 +22,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [Dart](#dart)
   * [Ruby](#ruby)
   * [C/C++](#cc)
+  * [Swift](#swift)
 * [Frameworks](#frameworks)
 * [Testing Tools](#testing-tools)
   * [Authorization Testing](#authorization-testing)
@@ -57,6 +58,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
   * 🌊 – C/C++ codebase
+  * 🍎 - Swift codebase
 
 ## SDKs
 
@@ -129,6 +131,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### C/C++
 
 - [micl2e2/mcpc](https://github.com/micl2e2/mcpc) 🌊 - Modern C SDK for building MCP servers/clients.
+
+### Swift
+
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) 🍎 🎖️ - Official Swift SDK for building with MCP.
 
 ## Frameworks
 
