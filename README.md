@@ -58,7 +58,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
   * 🌊 – C/C++ codebase
-  * 🍎 - Swift codebase
+  * 🍎 – Swift codebase
 
 ## SDKs
 
@@ -156,7 +156,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
-- [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS. It's built using the official Swift SDK.
+- [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
