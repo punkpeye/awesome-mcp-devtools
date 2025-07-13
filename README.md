@@ -76,6 +76,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### JavaScript/TypeScript
 
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [ModelFetch](https://github.com/phuctm97/modelfetch) 📇 - A runtime-agnostic SDK to create and deploy MCP servers anywhere TypeScript/JavaScript runs
 - [QuantGeekDev/mcp-framework](https://github.com/QuantGeekDev/mcp-framework) 📇 - Fast and elegant TypeScript framework for building MCP servers
 - [wong2/LiteMCP](https://github.com/wong2/litemcp) 📇 - A high-level framework for building MCP servers in JavaScript/TypeScript
 - [ribeirogab/simple-mcp](https://github.com/ribeirogab/simple-mcp) 📇 - A simple TypeScript library for creating MCP servers
