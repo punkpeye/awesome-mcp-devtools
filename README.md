@@ -246,3 +246,4 @@ Public test endpoints:
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+- [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)
