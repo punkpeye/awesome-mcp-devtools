@@ -21,6 +21,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [Scala](#scala)
   * [Dart](#dart)
   * [Ruby](#ruby)
+  * [Elixir](#elixir)
   * [C/C++](#cc)
   * [Swift](#swift)
 * [Frameworks](#frameworks)
@@ -59,6 +60,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🦀 – Rust codebase
   * 🌊 – C/C++ codebase
   * 🍎 – Swift codebase
+  * 💧 – Elixir codebase
 
 ## SDKs
 
@@ -129,6 +131,11 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Ruby
 
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
+- [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) 💎 - Ruby on Rails MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
+
+### Elixir
+
+- [tidewave-ai/tidewave_phoenix](https://github.com/tidewave-ai/tidewave_phoenix) 💧 - Phoenix MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
 
 ### C/C++
 
