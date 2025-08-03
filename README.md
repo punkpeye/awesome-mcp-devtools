@@ -21,7 +21,9 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * [Scala](#scala)
   * [Dart](#dart)
   * [Ruby](#ruby)
+  * [Elixir](#elixir)
   * [C/C++](#cc)
+  * [Swift](#swift)
 * [Frameworks](#frameworks)
 * [Testing Tools](#testing-tools)
   * [Authorization Testing](#authorization-testing)
@@ -57,6 +59,8 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
   * 🌊 – C/C++ codebase
+  * 🍎 – Swift codebase
+  * 💧 – Elixir codebase
 
 ## SDKs
 
@@ -76,8 +80,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [QuantGeekDev/mcp-framework](https://github.com/QuantGeekDev/mcp-framework) 📇 - Fast and elegant TypeScript framework for building MCP servers
 - [wong2/LiteMCP](https://github.com/wong2/litemcp) 📇 - A high-level framework for building MCP servers in JavaScript/TypeScript
+- [ModelFetch](https://github.com/phuctm97/modelfetch) 📇 - A runtime-agnostic SDK to create and deploy MCP servers anywhere TypeScript/JavaScript runs
 - [ribeirogab/simple-mcp](https://github.com/ribeirogab/simple-mcp) 📇 - A simple TypeScript library for creating MCP servers
 - [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
+- [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
 
 ### Python
 
@@ -86,6 +92,9 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [langchain-mcp](https://github.com/rectalogic/langchain-mcp) 🐍 - Provides MCP tool calling support in LangChain
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) 🐍 - Provides MCP wrapping on top of existing FastAPI REST endpoints
 - [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
+- [mcp-cli](https://github.com/tileshq/mcp-cli) 🐍 - A lightweight CLI MCP client to connect with remote MCP servers.
+- [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
+- [mxcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 
 ### Java
 
@@ -122,10 +131,19 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Ruby
 
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
+- [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) 💎 - Ruby on Rails MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
+
+### Elixir
+
+- [tidewave-ai/tidewave_phoenix](https://github.com/tidewave-ai/tidewave_phoenix) 💧 - Phoenix MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
 
 ### C/C++
 
 - [micl2e2/mcpc](https://github.com/micl2e2/mcpc) 🌊 - Modern C SDK for building MCP servers/clients.
+
+### Swift
+
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) 🍎 🎖️ - Official Swift SDK for building with MCP.
 
 ## Frameworks
 
@@ -138,13 +156,17 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [sendaifun/solana-agent-kit#agent-kit-mcp-server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - Solana MCP SDK
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
 
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
 
+- [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
+- [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
-- [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
+- [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
+- [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -180,6 +202,7 @@ Public test endpoints:
 - [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 - A lightweight gateway & registry for MCP servers with NAT traversal support, allowing edge devices to provide MCP services across networks. Features include WebSocket/SSE/HTTP endpoints, authentication, IPv6 support, and a CLI tool for easy registration of stdio-based MCP servers.
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) 📇 - An MCP workspace manager to bundle and manage MCP servers in dedicated local workspaces (e.g., for coding, design, research).
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
+- [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🌳 - Self-hosted MCP Registry and Proxy for ai agents
 - [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
@@ -195,8 +218,9 @@ Public test endpoints:
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
-- [StacklokLabs/toolhive](https://github.com/StacklokLabs/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- [StacklokLabs/toolhive](https://github.com/Stacklok/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
+- [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 
 ## Hosting
 
@@ -225,8 +249,7 @@ Public test endpoints:
 
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 * [amirshk/mcp-secrets-plugin](https://github.com/amirshk/mcp-secrets-plugin) 🐍 - A reference code to securely store and retrieve sensitive information using the system's native keychain
-
----
+* [AI Agents for beginners by Microsoft](https://youtu.be/OhI005_aJkA?si=4nclgu-qAGgM57RJ) 🐍 #️⃣ Full Course (Lessons 1–10) using Semantic Kernel – Theoretical and practical content (1 hour)
 
 ## Related awesome lists:
 
