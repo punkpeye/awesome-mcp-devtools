@@ -84,6 +84,8 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [ribeirogab/simple-mcp](https://github.com/ribeirogab/simple-mcp) 📇 - A simple TypeScript library for creating MCP servers
 - [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
 - [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
+- [ilyaev/mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui) 📇 - Boilerplate and sandbox for building MCP servers and easily testing their capabilities by chatting with them.
+
 
 ### Python
 
