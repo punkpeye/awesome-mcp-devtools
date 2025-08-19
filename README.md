@@ -157,6 +157,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
+- [dhyansraj/mcp-mesh](https://github.com/dhyansraj/mcp-mesh) 🐍 📇 - Distributed orchestration framework for MCP servers with automatic discovery, dependency injection, and Kubernetes-native scaling
 
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
