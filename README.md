@@ -109,6 +109,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 ### Rust
 
+- [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK
 - [linux-china/mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - MCP CLI server template for Rust
 - [poem-web/poem#poem-mcpserver](https://github.com/poem-web/poem/tree/master/poem-mcpserver) 🦀 - MCP Server implementation for Poem
 
