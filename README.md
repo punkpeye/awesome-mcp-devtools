@@ -104,13 +104,15 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 ### Go
 
-- [strowk/foxy-contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
+- [ggoodman/mcp-server-go](https://github.com/ggoodman/mcp-server-go) 🏎️ - Build MCP servers that scale from a 20‑line stdio prototype to a horizontally scaled, OIDC‑protected streaming HTTP deployment — without rewriting business logic.
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - Golang SDK for building MCP Servers and Clients
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) 🏎️ - Golang framework for building MCP Servers, focussed on type safety
+- [strowk/foxy-contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
 
 ### Rust
 
 - [linux-china/mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - MCP CLI server template for Rust
+- [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK
 - [poem-web/poem#poem-mcpserver](https://github.com/poem-web/poem/tree/master/poem-mcpserver) 🦀 - MCP Server implementation for Poem
 
 ### Kotlin
@@ -213,6 +215,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
