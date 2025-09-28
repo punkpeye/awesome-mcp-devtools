@@ -95,7 +95,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
 - [mcp-cli](https://github.com/tileshq/mcp-cli) 🐍 - A lightweight CLI MCP client to connect with remote MCP servers.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
-- [mxcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
+- [basementstudio/xmcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 
 ### Java
 
