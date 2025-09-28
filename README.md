@@ -7,35 +7,36 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 ## Contents
 
-* [Contents](#contents)
-* [Community](#community)
-* [Legend](#legend)
-* [SDKs](#sdks)
-  * [JavaScript/TypeScript](#javascripttypescript)
-  * [Python](#python)
-  * [Java](#java)
-  * [Go](#go)
-  * [Rust](#rust)
-  * [Kotlin](#kotlin)
-  * [C#/.NET](#cnet)
-  * [Scala](#scala)
-  * [Dart](#dart)
-  * [Ruby](#ruby)
-  * [Elixir](#elixir)
-  * [C/C++](#cc)
-  * [Swift](#swift)
-* [Frameworks](#frameworks)
-* [Testing Tools](#testing-tools)
-  * [Authorization Testing](#authorization-testing)
-* [Libraries](#libraries)
-* [Utilities](#utilities)
-  * [Proxies and Gateways](#proxies-and-gateways)
-  * [Development Tools](#development-tools)
-* [Hosting](#hosting)
-* [Templates](#templates)
-* [Resources](#resources)
-* [Tutorials](#tutorials)
-* [Related awesome lists:](#related-awesome-lists)
+- [Awesome MCP DevTools ](#awesome-mcp-devtools-)
+  - [Contents](#contents)
+  - [Community](#community)
+  - [Legend](#legend)
+  - [SDKs](#sdks)
+    - [JavaScript/TypeScript](#javascripttypescript)
+    - [Python](#python)
+    - [Java](#java)
+    - [Go](#go)
+    - [Rust](#rust)
+    - [Kotlin](#kotlin)
+    - [C#/.NET](#cnet)
+    - [Scala](#scala)
+    - [Dart](#dart)
+    - [Ruby](#ruby)
+    - [Elixir](#elixir)
+    - [C/C++](#cc)
+    - [Swift](#swift)
+  - [Frameworks](#frameworks)
+  - [Testing Tools](#testing-tools)
+    - [Authorization Testing](#authorization-testing)
+  - [Libraries](#libraries)
+  - [Utilities](#utilities)
+    - [Proxies and Gateways](#proxies-and-gateways)
+    - [Development Tools](#development-tools)
+  - [Hosting](#hosting)
+  - [Templates](#templates)
+  - [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Related awesome lists:](#related-awesome-lists)
 
 ---
 
@@ -94,7 +95,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
 - [mcp-cli](https://github.com/tileshq/mcp-cli) 🐍 - A lightweight CLI MCP client to connect with remote MCP servers.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
-- [mxcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
+- [basementstudio/xmcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 
 ### Java
 
@@ -159,6 +160,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
+- [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
