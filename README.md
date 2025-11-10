@@ -157,6 +157,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns
 - [mcpdotdirect/template-mcp-server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - A CLI tool to create a new MCP server project with TypeScript support
 - [p-funk/FEGIS](https://github.com/p-funk/FEGIS) 🐍 - A semantic programming framework for LLMs that compiles YAML archetypes into structured tools with built-in memory and meaning. Each interaction becomes part of an emergent knowledge graph, enabling persistent, semantic retrieval and reuse.
+- [portel-dev/photon](https://github.com/portel-dev/photon) 📇 - Runtime and marketplace for MCP servers using single-file TypeScript format. Like npm + Node.js for MCP - fork-first design with 16+ production-ready photons.
 - [sebastianbuzdugan/framework-rai-mcp](https://github.com/sebastianbuzdugan/framework-rai-mcp) 📇 - A responsible AI MCP server framework focused on ethical deployment in startups and enterprise prototypes.
 - [sendaifun/solana-agent-kit#agent-kit-mcp-server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - Solana MCP SDK
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
