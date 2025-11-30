@@ -235,6 +235,7 @@ Public test endpoints:
 
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
+- [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
 
 ## Templates
 
