@@ -25,6 +25,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
     - [Elixir](#elixir)
     - [C/C++](#cc)
     - [Swift](#swift)
+    - [Bash](#bash)
   - [Frameworks](#frameworks)
   - [Testing Tools](#testing-tools)
     - [Authorization Testing](#authorization-testing)
@@ -62,6 +63,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🌊 – C/C++ codebase
   * 🍎 – Swift codebase
   * 💧 – Elixir codebase
+  * 👾 – Bash codebase
 
 ## SDKs
 
@@ -149,6 +151,12 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Swift
 
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) 🍎 🎖️ - Official Swift SDK for building with MCP.
+
+### Bash
+
+- [yaniv-golan/mcp-bash-framework](https://github.com/yaniv-golan/mcp-bash-framework) 👾 - Zero-dependency Bash implementation for building MCP servers, supporting features like tool handling, schema validation, progress streaming, and cross-platform compatibility.
+
+
 
 ## Frameworks
 
