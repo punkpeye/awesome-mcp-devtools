@@ -252,6 +252,7 @@ Public test endpoints:
 - [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
 - [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
 - [rails-mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) 💎 - A Rails template for creating Paid MCP servers compatible with Claude Integrations. It uses Rails 8.0.2, Devise, Doorkeeper, FastMCP and Stripe. Has a built-in UI.
+- [npx-mcp-template](https://github.com/holyfata/npx-mcp-template) 📇 - A Development template project built with unbuild + TypeScript, providing a full-process reference for packaging, publishing and usage. Example Package: [mermaid-grammer-inspector-mcp](https://github.com/holyfata/mermaid-grammer-inspector-mcp)
 
 
 ## Resources
