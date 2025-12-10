@@ -5,6 +5,9 @@
 
 A curated list of developer tools, SDKs, libraries, utilities, and resources for working with **Model Context Protocol (MCP)** servers.
 
+> [!IMPORTANT]
+> Browse [MCP servers](https://glama.ai/mcp/servers)
+
 ## Contents
 
 - [Awesome MCP DevTools ](#awesome-mcp-devtools-)
