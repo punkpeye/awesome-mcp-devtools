@@ -98,6 +98,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [mcp-use](https://github.com/mcp-use/mcp-use) 🐍 - Open source python library to very easily connect any LLM to any MCP server both locally and remotely.
 - [langchain-mcp](https://github.com/rectalogic/langchain-mcp) 🐍 - Provides MCP tool calling support in LangChain
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) 🐍 - Provides MCP wrapping on top of existing FastAPI REST endpoints
+- [Django REST Framework MCP](https://github.com/zacharypodbela/djangorestframework-mcp) 🐍 - Expose Django REST Framework APIs as MCP tools with automatic tool generation from ViewSets
 - [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
 - [mcp-cli](https://github.com/tileshq/mcp-cli) 🐍 - A lightweight CLI MCP client to connect with remote MCP servers.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
