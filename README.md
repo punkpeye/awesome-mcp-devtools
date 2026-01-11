@@ -226,6 +226,7 @@ Public test endpoints:
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
+- [warpdev/mcp-hub-mcp](https://github.com/warpdev/mcp-hub-mcp) 📇 – A MCP server that connects to multiple other MCP servers and executes tools on their behalf.
 
 ### Development Tools
 
