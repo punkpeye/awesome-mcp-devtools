@@ -229,6 +229,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [Epistates/turbomcpstudio](https://github.com/Epistates/turbomcpstudio) 🏎️ - A full featured protocol studio to help you develop, test, and debug your MCP servers. Built w/ TurboMCP
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
