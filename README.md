@@ -91,6 +91,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
 - [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
+- [hashgraph-online/standards-sdk](https://github.com/hashgraph-online/standards-sdk) 📇 - TypeScript SDK with RegistryBrokerClient for Universal Agentic Registry. Enables AI agent discovery, blockchain-based identity (ERC-8004, UAIDs), and MCP server registration with Zod-backed validation.
 
 ### Python
 
