@@ -271,6 +271,7 @@ Public test endpoints:
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 * [amirshk/mcp-secrets-plugin](https://github.com/amirshk/mcp-secrets-plugin) 🐍 - A reference code to securely store and retrieve sensitive information using the system's native keychain
 * [AI Agents for beginners by Microsoft](https://youtu.be/OhI005_aJkA?si=4nclgu-qAGgM57RJ) 🐍 #️⃣ Full Course (Lessons 1–10) using Semantic Kernel – Theoretical and practical content (1 hour)
+* [Awesome Code Docs: MCP Servers Tutorial](https://github.com/johnxie/awesome-code-docs/tree/main/tutorials/mcp-servers-tutorial) - Deep-dive chapter-based MCP server tutorial covering architecture, implementation, and production adaptation.
 
 ## Related awesome lists:
 
