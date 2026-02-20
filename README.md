@@ -165,6 +165,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 > High-level frameworks for working with MCP servers
 
+- [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ – Native MCP server from a safety-first agent orchestration platform. Supports stdio + HTTP/SSE transports with 6 tools (job submission, policy evaluation, output scanning, workflow triggering, audit queries, pool status) and 7 resources.
 - [hasmcp/hasmcp-ce](https://github.com/hasmcp/hasmcp-ce) 🤖📇🏎️ - Convert your API to MCP server with built-in authentication, authorization, real-time request/response logs and metrics. HasMCP is a no-code, self-hosted API to MCP server bridge.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns
 - [mcpdotdirect/template-mcp-server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - A CLI tool to create a new MCP server project with TypeScript support
