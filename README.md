@@ -91,7 +91,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
 - [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
-- [NeuroLink](https://github.com/juspay/neurolink) 📇 - TypeScript-first multi-provider AI SDK from Juspay with built-in MCP client support, 200+ integrations, streaming, tool calling, and production-grade agent orchestration.
+- [NeuroLink](https://github.com/juspay/neurolink) 📇 - TypeScript-first multi-provider AI SDK from Juspay with built-in MCP client support, 13 major AI providers and 100+ models, streaming, tool calling, and production-grade agent orchestration.
 
 ### Python
 
