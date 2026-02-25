@@ -242,6 +242,7 @@ Public test endpoints:
 - [StacklokLabs/toolhive](https://github.com/Stacklok/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
+- [vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 📄 - Seamless document format conversion between Markdown, PDF, DOCX, HTML, and 6+ other formats.
 
 ## Hosting
 
