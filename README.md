@@ -176,6 +176,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
+- [BiXFlow](https://github.com/bixing-open/BiXFlow) 📁 – An MCP-based workflow framework for defining and executing deterministic workflows via YAML (developed by CMRI's BiXing team). 
 
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
