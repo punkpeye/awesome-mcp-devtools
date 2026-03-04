@@ -215,6 +215,7 @@ Public test endpoints:
 
 ### Proxies and Gateways
 
+- [Agent Gateway](https://github.com/OzorOwn/agent-gateway) 📇 - Unified REST API gateway for AI agents — 39+ microservices (crypto, web scraping, screenshots, code execution, file storage, DNS, email, and more) behind a single API key with usage tracking and rate limiting.
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
