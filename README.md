@@ -266,6 +266,7 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [Agent Native Registry](https://agentnativeregistry.com) — Database of 100+ developer tools scored for AI agent compatibility. Discover which tools have MCP servers, API keys, and discoverability features before building your integration.
 
 ## Tutorials
 
