@@ -168,6 +168,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [hasmcp/hasmcp-ce](https://github.com/hasmcp/hasmcp-ce) 🤖📇🏎️ - Convert your API to MCP server with built-in authentication, authorization, real-time request/response logs and metrics. HasMCP is a no-code, self-hosted API to MCP server bridge.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns
+- [jcasare/mcp-craft](https://github.com/jcasare/mcp-craft) 📇 - CLI toolkit for scaffolding, testing, and registering MCP servers across Claude, Cursor, VS Code, Codex, and Gemini
 - [mcpdotdirect/template-mcp-server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - A CLI tool to create a new MCP server project with TypeScript support
 - [p-funk/FEGIS](https://github.com/p-funk/FEGIS) 🐍 - A semantic programming framework for LLMs that compiles YAML archetypes into structured tools with built-in memory and meaning. Each interaction becomes part of an emergent knowledge graph, enabling persistent, semantic retrieval and reuse.
 - [sebastianbuzdugan/framework-rai-mcp](https://github.com/sebastianbuzdugan/framework-rai-mcp) 📇 - A responsible AI MCP server framework focused on ethical deployment in startups and enterprise prototypes.
@@ -176,6 +177,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
+- [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
 
 ## Testing Tools 
 > Tools for testing MCP servers and clients 
@@ -187,6 +189,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [MCPulse](https://github.com/AndreyVMarkelov/MCPulse) ☕ - Apache JMeter load testing plugin for MCP stdio servers. Supports initialize, tools/list, tools/call, and resources/list.
+- [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 
 ### Authorization Testing
@@ -229,6 +232,7 @@ Public test endpoints:
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
+- [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
 
 ### Development Tools
 
