@@ -231,6 +231,7 @@ Public test endpoints:
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
+- [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
 
 ### Development Tools
 
