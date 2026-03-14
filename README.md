@@ -189,6 +189,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
+- [elliotllliu/agent-shield](https://github.com/elliotllliu/agent-shield) 📇 - Full-stack security scanner for AI agent skills, MCP servers, and plugins. 31 rules for prompt injection (8 languages, 55+ patterns), data exfiltration, backdoors, tool poisoning, and cross-file attack chains. Includes MCP runtime proxy for real-time interception and Python AST taint tracking.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 
 ### Authorization Testing
