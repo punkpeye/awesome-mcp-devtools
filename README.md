@@ -29,6 +29,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
     - [C/C++](#cc)
     - [Swift](#swift)
     - [Bash](#bash)
+    - [Common Lisp](#common-lisp)
   - [Frameworks](#frameworks)
   - [Testing Tools](#testing-tools)
     - [Authorization Testing](#authorization-testing)
@@ -67,6 +68,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🍎 – Swift codebase
   * 💧 – Elixir codebase
   * 👾 – Bash codebase
+  * λ – Common Lisp codebase
 
 ## SDKs
 
@@ -161,6 +163,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [yaniv-golan/mcp-bash-framework](https://github.com/yaniv-golan/mcp-bash-framework) 👾 - Zero-dependency Bash implementation for building MCP servers, supporting features like tool handling, schema validation, progress streaming, and cross-platform compatibility.
 
 
+
+### Common Lisp
+
+- [jsulmont/mcp-lisp](https://github.com/jsulmont/mcp-lisp) λ - Common Lisp SDK for building MCP servers and clients with HTTP and stdio transports
 
 ## Frameworks
 
