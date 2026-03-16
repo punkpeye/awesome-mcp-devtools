@@ -179,9 +179,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
 
-## Testing Tools 
-> Tools for testing MCP servers and clients 
+## Testing Tools
+> Tools for testing MCP servers and clients
 
+- [AgentTrust](https://github.com/vitaliiserbynassisterr/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
