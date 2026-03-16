@@ -176,6 +176,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
+- [Jovancoding/Network-AI](https://github.com/Jovancoding/Network-AI) 📇 – Multi-agent orchestration MCP server (stdio + SSE) with 22 tools for blackboard state management, token budgets, permission gating, agent lifecycle, and audit logging. Coordinates agents across 15 frameworks.
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
 
