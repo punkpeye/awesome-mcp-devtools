@@ -196,6 +196,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
+- [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
