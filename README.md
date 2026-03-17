@@ -254,6 +254,7 @@ Public test endpoints:
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 - [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
+- [Arch Tools](https://archtools.dev) - 61 production-ready AI tools hosted as a remote MCP server with x402 USDC micropayments. Tools include code analysis, web scraping, image generation, NLP, crypto, and search. MCP endpoint: `https://arch-tools-mcp.onrender.com/mcp`
 
 ## Templates
 
