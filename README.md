@@ -280,6 +280,7 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [fastmcp-3.0-typescript-agent_skill](https://github.com/cubaseuser123/fastmcp-3.0-typescript-agent_skill) 📇 — AI agent skill files for writing correct FastMCP TypeScript servers. Prevents hallucination of wrong APIs (official SDK, Python FastMCP) with references for tools, resources, prompts, auth, transport, and common anti-patterns.
 
 ## Tutorials
 
