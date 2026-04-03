@@ -236,6 +236,7 @@ Public test endpoints:
 - [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
+- [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 – A governance proxy for MCP servers that adds policy-based access control, human approval workflows, and hash-chain audit trails. Wraps any upstream MCP server with zero code changes via `.mcp.json` configuration.
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
