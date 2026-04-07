@@ -257,6 +257,8 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [sortlist/overloop-cli](https://github.com/sortlist/overloop-cli) 📇 - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+- [sortlist/signals-cli](https://github.com/sortlist/signals-cli) 📇 - Intent signal monitoring for AI agents. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output.
 
 ## Hosting
 
