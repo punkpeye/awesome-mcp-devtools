@@ -293,3 +293,4 @@ Public test endpoints:
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
