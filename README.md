@@ -218,6 +218,7 @@ Public test endpoints:
 
 > Reusable code libraries and components for MCP servers
 
+- [cnap-tech/codemode](https://github.com/cnap-tech/codemode) 📇 - Programmatic tool calling (Code Mode) for MCP — turn any OpenAPI spec into two sandboxed tools (search + execute) instead of hundreds of hand-written tools
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) 📇 - CodeMirror extension that implements MCP for resource mentions and prompt commands
 - [jhgaylor/express-mcp-handlder](https://github.com/jhgaylor/express-mcp-handler) 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
 - [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – Tool to automate the registration of functions and classes from a Python package into a FastMCP instance
