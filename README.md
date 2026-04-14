@@ -270,6 +270,7 @@ Public test endpoints:
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
+- [ToolHive](https://github.com/StacklokLabs/toolhive) 🏎️ - ToolHive (thv) is a lightweight utility designed to simplify the deployment and management of MCP (Model Context Protocol) servers, ensuring ease of use, consistency, and security.
 - [onUI](https://github.com/onllm-dev/onUI) 📇 - Browser extension and MCP server for annotation-first UI pair programming with AI agents. Annotate, draw, and capture UI context from any webpage. 8 MCP tools. Claude Code, Cursor, Windsurf compatible.
 - [StacklokLabs/toolhive](https://github.com/Stacklok/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
