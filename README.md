@@ -105,6 +105,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [mcp-cli](https://github.com/tileshq/mcp-cli) 🐍 - A lightweight CLI MCP client to connect with remote MCP servers.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
 - [basementstudio/xmcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) 🐍 - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
 ### Java
 
@@ -172,6 +173,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 > High-level frameworks for working with MCP servers
 
+- [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ – Native MCP server from a safety-first agent orchestration platform. Supports stdio + HTTP/SSE transports with 6 tools (job submission, policy evaluation, output scanning, workflow triggering, audit queries, pool status) and 7 resources.
 - [hasmcp/hasmcp-ce](https://github.com/hasmcp/hasmcp-ce) 🤖📇🏎️ - Convert your API to MCP server with built-in authentication, authorization, real-time request/response logs and metrics. HasMCP is a no-code, self-hosted API to MCP server bridge.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns
 - [jcasare/mcp-craft](https://github.com/jcasare/mcp-craft) 📇 - CLI toolkit for scaffolding, testing, and registering MCP servers across Claude, Cursor, VS Code, Codex, and Gemini
@@ -185,19 +187,23 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
 
-## Testing Tools 
-> Tools for testing MCP servers and clients 
+## Testing Tools
+> Tools for testing MCP servers and clients
 
+- [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
+- [MCPLoadTester](https://github.com/AndreyVMarkelov/MCPLoadTester) — JMeter sampler for load testing Model Context Protocol (MCP) servers over stdio, HTTP, and SSE.
 - [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
+- [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) - MCP-native eval & observability. 12 built-in eval rules, trace logging, cost tracking. Agents discover it automatically — zero code changes.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
+- [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -214,11 +220,14 @@ Public test endpoints:
 
 > Reusable code libraries and components for MCP servers
 
+- [cnap-tech/codemode](https://github.com/cnap-tech/codemode) 📇 - Programmatic tool calling (Code Mode) for MCP — turn any OpenAPI spec into two sandboxed tools (search + execute) instead of hundreds of hand-written tools
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) 📇 - CodeMirror extension that implements MCP for resource mentions and prompt commands
 - [jhgaylor/express-mcp-handlder](https://github.com/jhgaylor/express-mcp-handler) 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
 - [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – Tool to automate the registration of functions and classes from a Python package into a FastMCP instance
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – Use MCP provided tools in LangChain.js
 - [traceloop/openllmetry#opentelemetry-instrumentation-mcp](https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-mcp) 🐍 - OpenTelemetry instrumentation for MCP Python that captures tool calls, notifications, listing, initialization handshakes and propagates traces from client to server.
+- [olgasafonova/mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go) 🏎️ - OpenTelemetry instrumentation for Go MCP servers using the official go-sdk. One middleware call adds tracing and metrics for every method, following the OTel semantic conventions for MCP.
+- [DenisTheM/monapi](https://github.com/DenisTheM/monapi) 📇 - Add per-tool x402 micropayments to any MCP server. Agents pay in USDC per tool call — no API keys, no signup. Also supports Express and Next.js.
 
 ## Utilities
 
@@ -238,12 +247,14 @@ Public test endpoints:
 - [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) 🏎️ - Smart MCP proxy with BM25 tool discovery, quarantine security, Docker isolation, and web UI
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
+- [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 – A governance proxy for MCP servers that adds policy-based access control, human approval workflows, and hash-chain audit trails. Wraps any upstream MCP server with zero code changes via `.mcp.json` configuration.
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
 
 ### Development Tools
 
+- [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
