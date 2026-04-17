@@ -258,6 +258,8 @@ Public test endpoints:
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
 
+- [qualixar/slm-mcp-hub](https://github.com/qualixar/slm-mcp-hub) 🐍 - Universal MCP gateway that federates 430+ tools from 37 servers through one endpoint. 75% RAM reduction, background startup, auto-retry, cost tracking. `pip install slm-mcp-hub` or `npm install slm-mcp-hub`. Dual Python + Node.
+
 ### Development Tools
 
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
