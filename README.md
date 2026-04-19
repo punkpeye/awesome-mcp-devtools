@@ -278,6 +278,9 @@ Public test endpoints:
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
 
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain) 📇 - Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, and swarm intelligence.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) 📇 - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline with visual dashboard and one-click install.
+
 ## Hosting
 
 > Libraries & platforms for hosting MCP servers.
