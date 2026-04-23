@@ -233,6 +233,7 @@ Public test endpoints:
 - [traceloop/openllmetry#opentelemetry-instrumentation-mcp](https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-mcp) 🐍 - OpenTelemetry instrumentation for MCP Python that captures tool calls, notifications, listing, initialization handshakes and propagates traces from client to server.
 - [olgasafonova/mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go) 🏎️ - OpenTelemetry instrumentation for Go MCP servers using the official go-sdk. One middleware call adds tracing and metrics for every method, following the OTel semantic conventions for MCP.
 - [DenisTheM/monapi](https://github.com/DenisTheM/monapi) 📇 - Add per-tool x402 micropayments to any MCP server. Agents pay in USDC per tool call — no API keys, no signup. Also supports Express and Next.js.
+- [@voidly/agent-sdk](https://www.npmjs.com/package/@voidly/agent-sdk) 📇 - TypeScript SDK for E2E encrypted agent-to-agent messaging. Signal Protocol + ML-KEM-768 PQ hybrid, A2A v0.3.0 compliant, federation + offline queue + key pinning.
 
 ## Utilities
 
