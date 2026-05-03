@@ -113,6 +113,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ☕ - Java SDK for building MCP servers using Quarkus
 - [spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ - Java SDK and Spring Framework integration for building MCP client and MCP servers
+- [Swagger MCP Bridge](https://github.com/Neo1228/spring-boot-starter-swagger-mcp) ☕ - Spring Boot starter that converts SpringDoc OpenAPI operations into MCP tools with validation, workflow orchestration, and guardrails.
 - [tinystruct-mcp](https://github.com/tinystruct/tinystruct-mcp) ☕ - Java SDK and establishing an extensible MCP server based on lightweight tinystruct framework
   
 ### Go
