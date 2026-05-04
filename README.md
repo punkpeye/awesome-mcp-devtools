@@ -257,6 +257,7 @@ Public test endpoints:
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
+- * [caddy-mcp](https://github.com/venkatkrishna07/caddy-mcp) 🏎️ - Caddy plugin that exposes private MCP servers over QUIC. Dial-out from private networks (no inbound firewall ports), MCP-aware tool/resource ACLs, per-user policy intersection, structured audit logs, SSE support.
 
 ### Development Tools
 
