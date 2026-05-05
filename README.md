@@ -194,6 +194,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools
 > Tools for testing MCP servers and clients
 
+- [unitedideas/agentprobe](https://github.com/unitedideas/agentprobe) 🏎️ ☁️ - Seller surface readiness tester for agentic commerce. Probes any URL and scores it 0-95 across 10 checks: llms.txt, OpenAPI, ai-plugin.json, MCP endpoint, commerce.json, catalog/quote/checkout APIs, payment rail declarations, refund/contact metadata. Grade: NOT_READY/PARTIAL/AGENT_READY/CERTIFIED. CI action + MCP tool: `probe_site(url)`.
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
