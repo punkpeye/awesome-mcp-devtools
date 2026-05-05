@@ -209,6 +209,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
+- [incultnitollc/mcp-probe](https://github.com/incultnitollc/mcp-probe) 📇 - One-command CLI for protocol-level health checks on any MCP server. Enumerates every tool, resource, and prompt; auto-generates valid arguments from declared schemas; calls each capability; prints a pass/fail scorecard; exits 0/1 for CI. Supports stdio, SSE, and Streamable HTTP transports. Bundled with a [pre-publish checklist](https://github.com/incultnitollc/mcp-probe/blob/main/docs/checklist.md) for MCP server maintainers.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
