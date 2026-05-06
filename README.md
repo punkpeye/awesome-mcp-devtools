@@ -267,6 +267,7 @@ Public test endpoints:
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
 - [rodaddy/mcp2cli](https://github.com/rodaddy/mcp2cli) 📇 - CLI bridge that wraps MCP servers as bash-invokable commands, recovering ~11K tokens of context window per session
+- [sampleXbro/agentsmesh](https://github.com/sampleXbro/agentsmesh) 📇 - Write MCP server configs, rules, hooks, and permissions once in `.agentsmesh/` and sync them natively across Claude Code, Cursor, Copilot, Gemini CLI, and 14+ other AI coding tools. Includes bidirectional import, drift detection, and CI checks.
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
