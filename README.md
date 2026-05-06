@@ -277,7 +277,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
-- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) 📇 - Self-repairing CLI catalog exposing 238 sites and 1,458 commands across web, desktop apps, Electron apps, and bridge CLIs through one MCP server (counts from the repo's live README STATS counters). Declarative YAML adapters with structured error envelopes (`adapter_path`, `step`, `suggestion`) let agents edit failing adapters and retry; per-call token budget published in [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md).
+- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) 📇 - Self-repairing CLI catalog that exposes web, desktop apps, Electron apps, and bridge CLIs as deterministic commands through one MCP server. Declarative YAML adapters with structured error envelopes (`adapter_path`, `step`, `suggestion`) let agents edit failing adapters and retry. Live catalog size and per-call token budget tracked in the repo's [README](https://github.com/olo-dot-io/Uni-CLI#readme) and [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md).
 
 ## Hosting
 
