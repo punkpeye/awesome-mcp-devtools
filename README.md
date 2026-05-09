@@ -312,3 +312,4 @@ Public test endpoints:
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+- [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups)
