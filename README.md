@@ -25,6 +25,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
     - [Scala](#scala)
     - [Dart](#dart)
     - [Ruby](#ruby)
+    - [PHP](#php)
     - [Elixir](#elixir)
     - [C/C++](#cc)
     - [Swift](#swift)
@@ -61,6 +62,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🏎️ – Go codebase
   * 🐍 – Python codebase
   * 💎 – Ruby codebase
+  * 🐘 – PHP codebase
   * 📇 – TypeScript codebase
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
@@ -148,6 +150,11 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
 - [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) 💎 - Ruby on Rails MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
+
+### PHP
+
+- [logiscape/mcp-sdk-php](https://github.com/logiscape/mcp-sdk-php) 🐘 - Model Context Protocol SDK for PHP. Implements stdio + HTTP transports, tool/resource/prompt registration, and JSON-RPC handling.
+- [grobinson3108/laravel-mcp-server](https://github.com/grobinson3108/laravel-mcp-server) 🐘 - Build authenticated MCP servers in Laravel 11/12/13. Bootstraps Laravel from CLI, resolves Sanctum tokens to users, and exposes a clean abstract base class for identity-scoped tools.
 
 ### Elixir
 
