@@ -62,6 +62,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🏎️ – Go codebase
   * 🐍 – Python codebase
   * 💎 – Ruby codebase
+  * 🐘 – PHP codebase
   * 📇 – TypeScript codebase
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
