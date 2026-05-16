@@ -209,6 +209,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
+- [TinyTools MCP Server Inspector](https://tinytools-smoky.vercel.app/mcp-server-inspector/) - Free in-browser security & health audit for MCP servers. Paste a GitHub URL to check for SSRF patterns, command injection, missing auth, abandoned status, license, and 20+ other security/health signals. 100% client-side, BYOK GitHub token optional.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -277,6 +278,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [TinyTools MCP Config Generator](https://tinytools-smoky.vercel.app/mcp-config-generator/) - Generate copy-paste MCP server config JSON for Claude Desktop, Cursor, Continue, Cline, Windsurf, Zed, and the Claude Code CLI. Pick from 40+ popular MCP servers (Filesystem, GitHub, Postgres, Slack, Linear, Notion, ...). Free, no signup.
 
 ## Hosting
 
