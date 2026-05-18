@@ -260,6 +260,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [coding-dev-tools/click-to-mcp](https://github.com/coding-dev-tools/click-to-mcp) 📇 - Convert any CLI tool to an MCP server with a single command.
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
