@@ -194,6 +194,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools
 > Tools for testing MCP servers and clients
 
+- [hatchloop/mcp-quality-checker](https://hatchloop.dev/tools/mcp-check/) - Browser UI to probe and score any MCP server for reachability, schema validity, tool coverage, and response quality. No install required.
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
@@ -278,6 +279,7 @@ Public test endpoints:
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
 
+- [basilalshukaili/mcp-config-lint](https://github.com/basilalshukaili/mcp-config-lint) 🐍 - Lint, security-check, and audit Claude Desktop MCP config files. Detects JSON errors, dead server references, unfilled placeholders, duplicate entries, and overly-permissive token scopes. CI-friendly: pip install mcp-config-lint, GitHub Action: basilalshukaili/mcp-config-lint@v1, zero deps.
 ## Hosting
 
 > Libraries & platforms for hosting MCP servers.
