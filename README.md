@@ -210,6 +210,9 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 
+- [basilalshukaili/mcp-config-lint](https://github.com/basilalshukaili/mcp-config-lint) ð - Lint, security-check, and token-cost your Claude Desktop MCP config (claude_desktop_config.json). Catches invalid JSON, wrong types, runtime mismatches, unfilled placeholders, broad token scopes, and AWS keys in args. Available via pip install mcp-config-lint and as a GitHub Action.
+- [MCP Quality Checker](https://hatchloop.dev/tools/mcp-check/) - Free web tool to probe any live MCP server: HTTP reachability, initialize handshake, tools/list schema validity, and latency. Returns a 0-100 quality score with honest failure reasons. No install required.
+
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
