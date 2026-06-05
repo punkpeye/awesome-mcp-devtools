@@ -95,6 +95,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
 - [FrontMCP](https://github.com/agentfront/frontmcp) 📇 — A TypeScript-first framework for building extensible MCP servers with decorators, dependency injection, and modular architecture.
 - [NeuroLink](https://github.com/juspay/neurolink) 📇 - TypeScript-first multi-provider AI SDK from Juspay with built-in MCP client support, 13 major AI providers and 100+ models, streaming, tool calling, and production-grade agent orchestration.
+- [ax-ray](https://github.com/hn-research/axray) 📇 - TypeScript-Local CLI that inventories the MCP servers configured across your AI clients (Claude, Cursor, VS Code, Cline, Continue, Zed) into one view - each server's command, transport, and env vars. Flags config worth a look.
 
 ### Python
 
