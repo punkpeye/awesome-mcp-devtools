@@ -285,7 +285,7 @@ Public test endpoints:
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 - [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
-- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Live: `https://intel.twzrd.xyz/mcp`
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Live: `https://intel.twzrd.xyz/mcp`
 
 ## Templates
 
