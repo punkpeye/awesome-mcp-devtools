@@ -203,6 +203,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [MCPLoadTester](https://github.com/AndreyVMarkelov/MCPLoadTester) — JMeter sampler for load testing Model Context Protocol (MCP) servers over stdio, HTTP, and SSE.
 - [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
+- [xlyoung/mcp-doctor](https://github.com/xlyoung/mcp-doctor) 🐍 - CLI tool to scan, score, and install MCP servers. 10 security detection engines, quality scoring (0-100), curated registry of 100+ pre-scored servers, and one-command install with security gate.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) - MCP-native eval & observability. 12 built-in eval rules, trace logging, cost tracking. Agents discover it automatically — zero code changes.
