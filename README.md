@@ -299,6 +299,7 @@ Public test endpoints:
 
 > Documentation, guides, standards, and learning materials for Model Context Protocol and MCP server development.
 
+- [AgentNDX](https://agentndx.ai) — MCP server directory with 25K+ servers, 95 skill categories, search, Featured listings, and an API Pro tier for AI developers building with MCP.
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 
