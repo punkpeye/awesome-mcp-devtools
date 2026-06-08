@@ -191,6 +191,8 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
 
+- [dmae97/open-multi-agent-kit](https://github.com/dmae97/open-multi-agent-kit) 📇 - TypeScript CLI control plane for coding agents with scoped MCP injection, provider routing, evidence gates, and replayable run telemetry.
+
 ## Testing Tools
 > Tools for testing MCP servers and clients
 
