@@ -30,6 +30,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
     - [Swift](#swift)
     - [Bash](#bash)
     - [Common Lisp](#common-lisp)
+    - [Zig](#zig)
   - [Frameworks](#frameworks)
   - [Testing Tools](#testing-tools)
     - [Authorization Testing](#authorization-testing)
@@ -69,6 +70,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 💧 – Elixir codebase
   * 👾 – Bash codebase
   * λ – Common Lisp codebase
+  * ⚡ – Zig codebase
 
 ## SDKs
 
@@ -170,6 +172,10 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Common Lisp
 
 - [jsulmont/mcp-lisp](https://github.com/jsulmont/mcp-lisp) λ - Common Lisp SDK for building MCP servers and clients with HTTP and stdio transports
+
+### Zig
+
+- [PaytonWebber/zig-mcp-sdk](https://github.com/PaytonWebber/zig-mcp-sdk) ⚡ - Zig SDK for building MCP servers with compile-time tool schema generation, stdio and Streamable HTTP transports
 
 ## Frameworks
 
