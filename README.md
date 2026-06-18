@@ -233,6 +233,8 @@ Public test endpoints:
 - [traceloop/openllmetry#opentelemetry-instrumentation-mcp](https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-mcp) 🐍 - OpenTelemetry instrumentation for MCP Python that captures tool calls, notifications, listing, initialization handshakes and propagates traces from client to server.
 - [olgasafonova/mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go) 🏎️ - OpenTelemetry instrumentation for Go MCP servers using the official go-sdk. One middleware call adds tracing and metrics for every method, following the OTel semantic conventions for MCP.
 - [DenisTheM/monapi](https://github.com/DenisTheM/monapi) 📇 - Add per-tool x402 micropayments to any MCP server. Agents pay in USDC per tool call — no API keys, no signup. Also supports Express and Next.js.
+- [verditnxtgen-mcp](https://pypi.org/project/verditnxtgen-mcp/) 🐍 - One-decorator Python middleware (`@verdit_ledger`) that silently intercepts MCP tool calls, signs payloads HMAC-SHA256, and posts telemetry asynchronously to the VerditNxtGen compliance ledger without blocking agent execution.
+- [verditnxtgen-mcp-middleware](https://www.npmjs.com/package/verditnxtgen-mcp-middleware) 📇 - One-function TypeScript wrapper (`withVerditLedger(server, {apiKey})`) for `@modelcontextprotocol/sdk` that adds cryptographic logging to any MCP server.
 
 ## Utilities
 
