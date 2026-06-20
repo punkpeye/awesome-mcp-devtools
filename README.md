@@ -257,6 +257,7 @@ Public test endpoints:
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
+- [samnodehi/zam-context-plane](https://github.com/samnodehi/zam-context-plane) 📇 - Deterministic context-governance layer for MCP: decides which tools / resources / prompts to expose per request (include / omit / defer) before the prompt, with an auditable trace and fail-open-when-unsure safety. Ships a reference MCP adapter; `npm install context-plane`.
 
 ### Development Tools
 
