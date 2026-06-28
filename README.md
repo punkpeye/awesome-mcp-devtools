@@ -92,6 +92,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [ribeirogab/simple-mcp](https://github.com/ribeirogab/simple-mcp) 📇 - A simple TypeScript library for creating MCP servers
 - [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
 - [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
+- [mcpeye](https://github.com/mcpeye/mcpeye) 📇 - Open-source, self-hosted product analytics for MCP servers, including the Intent Gap Report of the asks your tools couldn't deliver and the capabilities no tool exists for yet.
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
 - [FrontMCP](https://github.com/agentfront/frontmcp) 📇 — A TypeScript-first framework for building extensible MCP servers with decorators, dependency injection, and modular architecture.
 - [NeuroLink](https://github.com/juspay/neurolink) 📇 - TypeScript-first multi-provider AI SDK from Juspay with built-in MCP client support, 13 major AI providers and 100+ models, streaming, tool calling, and production-grade agent orchestration.
@@ -106,6 +107,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [easymcp](https://github.com/promptmesh/easymcp) 🐍 - A high level asyncio native client SDK with native support for namespaced servers and caching.
 - [mcp-cli](https://github.com/tileshq/mcp-cli) 🐍 - A lightweight CLI MCP client to connect with remote MCP servers.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
+- [mcpeye](https://github.com/mcpeye/mcpeye) 🐍 - Open-source, self-hosted product analytics for MCP servers, including the Intent Gap Report of the asks your tools couldn't deliver and the capabilities no tool exists for yet.
 - [basementstudio/xmcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 - [claw-army/claude-node](https://github.com/claw-army/claude-node) 🐍 - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
@@ -148,6 +150,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
 - [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) 💎 - Ruby on Rails MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
+- [mcpeye](https://github.com/mcpeye/mcpeye) 💎 - Open-source, self-hosted product analytics for MCP servers, including the Intent Gap Report of the asks your tools couldn't deliver and the capabilities no tool exists for yet.
 
 ### Elixir
 
