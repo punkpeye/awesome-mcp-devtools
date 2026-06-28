@@ -209,6 +209,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
+- [hoainho/podium-mcp](https://github.com/hoainho/podium-mcp) 📇 - Mobile + canvas automation MCP server. 51 tools for iOS (simulator + real) and Android device control, native UI automation, WebView DOM + network inspection, React Native debugging, and a no-vision canvas/WebGL brain for Pixi/Konva/Fabric/Phaser/Three/Babylon. ~5x fewer tokens than screenshot/vision loops.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
