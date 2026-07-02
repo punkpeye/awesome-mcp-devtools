@@ -312,3 +312,7 @@ Public test endpoints:
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+
+## BrowserAct
+
+Browser automation CLI for AI agents.
