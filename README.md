@@ -11,6 +11,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 ## Contents
 
 - [Awesome MCP DevTools ](#awesome-mcp-devtools-)
+- [context-kit](https://github.com/JDDavenport/context-kit) - MCP resource server exposing Personal Context Artifacts (PCA files: wiki, mental-models, voice, protocols) to Claude Desktop and any MCP client. Zero dependencies (stdlib only), one-command install.
   - [Contents](#contents)
   - [Community](#community)
   - [Legend](#legend)
