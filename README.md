@@ -60,7 +60,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🎯 - Dart codebase
   * 🏎️ – Go codebase
   * 🐍 – Python codebase
-  * 💎 – Ruby codebase
+  * 💎 – Ruby codebase
   * 📇 – TypeScript codebase
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
@@ -117,7 +117,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
   
 ### Go
 
-- [ggoodman/mcp-server-go](https://github.com/ggoodman/mcp-server-go) 🏎️ - Build MCP servers that scale from a 20‑line stdio prototype to a horizontally scaled, OIDC‑protected streaming HTTP deployment — without rewriting business logic.
+- [ggoodman/mcp-server-go](https://github.com/ggoodman/mcp-server-go) 🏎️ - Build MCP servers that scale from a 20-line stdio prototype to a horizontally scaled, OIDC-protected streaming HTTP deployment — without rewriting business logic.
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - Golang SDK for building MCP Servers and Clients
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) 🏎️ - Golang framework for building MCP Servers, focussed on type safety
 - [strowk/foxy-contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
@@ -209,6 +209,9 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
+- [mcp-probe](https://github.com/alvabillwu/mcp-probe) 🏎️ - CLI tool to probe and inspect any MCP server. Lists tools, resources, and prompts, validates schemas, and tests connectivity.
+- [mcp-guard](https://github.com/alvabillwu/mcp-guard) 🏎️ - Security scanner for MCP server tools. Detects potential security vulnerabilities and misconfigurations in tool implementations.
+- [mcp-compliance-lite](https://github.com/alvabillwu/mcp-compliance-lite) 🐍 - MCP protocol specification conformance tester. Validates that server implementations comply with the MCP spec.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -277,6 +280,8 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [mcp-factory](https://github.com/alvabillwu/mcp-factory) 📇 - MCP server scaffolding CLI. Generate new MCP server projects from templates with one command.
+- [mcpindex](https://github.com/alvabillwu/mcpindex) 📇 - MCP server search and discovery directory. Find and browse MCP servers.
 
 ## Hosting
 
@@ -290,7 +295,7 @@ Public test endpoints:
 
 > Example code ready to be made into a component of an MCP system.
 
-- [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
+- [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
 - [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
 - [rails-mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) 💎 - A Rails template for creating Paid MCP servers compatible with Claude Integrations. It uses Rails 8.0.2, Devise, Doorkeeper, FastMCP and Stripe. Has a built-in UI.
 
