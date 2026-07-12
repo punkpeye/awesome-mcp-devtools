@@ -312,3 +312,4 @@ Public test endpoints:
 
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+- [Relay](https://github.com/valtors/relay) - A local-first MCP server with 40+ tools for file ops, web fetch, screenshots, image manipulation, text extraction, data parsing, and PDF handling. Go binary, zero external deps, MIT licensed.
