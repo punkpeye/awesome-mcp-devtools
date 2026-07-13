@@ -210,6 +210,8 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 
+- [schemasmoke](https://github.com/patchwright/schemasmoke) 🐍 - Zero-FP schema-drift smoke test: generates schema-valid edge-case inputs from a tool's JSON Schema, runs the tool, flags crashes and type mismatches on declared-valid input. Zero false positives by construction.
+
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
