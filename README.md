@@ -190,6 +190,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [dhyansraj/mcp-mesh](https://github.com/dhyansraj/mcp-mesh) 🐍 📇 - Distributed orchestration framework for MCP servers with automatic discovery, dependency injection, and Kubernetes-native scaling
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
+- [GenTech Agent Kit](https://github.com/ProtoJay4789/gentech-agent-kit) 🤖 🐍 📇 - Multi-provider agent framework with native MCP support, x402 payment automation, and 20+ production-ready plugins (DeFi, Polymarket, Solana, Base, Algorand, Robinhood). Supports Claude Code, Cursor, Codex, and custom MCP hosts. Includes BlockRun MCP server for blockchain data and trading execution.
 
 ## Testing Tools
 > Tools for testing MCP servers and clients
