@@ -277,6 +277,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [zsxh1990/pr-genius](https://github.com/zsxh1990/pr-genius) 🐍 - Evidence-backed PR contribution advisor. 550+ case studies from 33 repos, 8 MCP tools for merge probability analysis, anti-pattern matching, and contribution strategy. `pip install prgenius-core`
 
 ## Hosting
 
