@@ -266,6 +266,7 @@ Public test endpoints:
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
+- [Northbeams-Labs/agentsurface](https://github.com/Northbeams-Labs/agentsurface) 🏎️ - A command-line tool that inventories the AI agent machinery installed on a machine: MCP servers across many clients, plus desktop extensions, plugins, skills, connectors, scheduled agent tasks, instruction files, and AI browser extensions with their native messaging hosts. Reports where each item came from and what its declared configuration says it can reach, and reports a diff against the previous run. Reads local configuration only; it makes no network calls, never starts anything it finds, and does not judge whether anything is malicious. macOS and Linux. `brew install Northbeams-Labs/tap/agentsurface`
 - [rodaddy/mcp2cli](https://github.com/rodaddy/mcp2cli) 📇 - CLI bridge that wraps MCP servers as bash-invokable commands, recovering ~11K tokens of context window per session
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
