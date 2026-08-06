@@ -212,6 +212,8 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
 
+- [schemasmoke](https://github.com/patchwright/schemasmoke) 🐍 - Zero-FP schema-drift smoke test: generates schema-valid edge-case inputs from a tool's JSON Schema, runs the tool, flags crashes and type mismatches on declared-valid input. Zero false positives by construction.
+
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
