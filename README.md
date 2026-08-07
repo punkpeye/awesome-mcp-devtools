@@ -242,6 +242,7 @@ Public test endpoints:
 
 ### Proxies and Gateways
 
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) 🦀 - Local Rust scanner and MCP proxy that wraps stdio servers to inspect tool-call arguments for prompt injection, credential leakage, exfiltration, and risky actions before execution.
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
