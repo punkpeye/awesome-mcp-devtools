@@ -195,6 +195,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools
 > Tools for testing MCP servers and clients
 
+- [artiehinz/Agent-Enhancer-Utilities](https://github.com/artiehinz/Agent-Enhancer-Utilities) - Free, no-auth remote MCP test utility for protocol/version/schema compatibility, stream parsing, retry/failure sequences, and x402 contract diagnostics, with published self-test evidence. Streamable HTTP: `https://liberated.site/mcp`.
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
