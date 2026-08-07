@@ -280,6 +280,8 @@ Public test endpoints:
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
 
+- [crescerasystems/mcp-setup-tool](https://github.com/crescerasystems/mcp-setup-tool) 📇 - One command to set up MCP servers correctly for Claude Code, Claude Desktop, and Cursor (writes the right per-client config shape and backs up existing files), plus a `--check` scanner that flags archived/dead, missing, and malformed servers in your config with a concrete fix for each. Zero dependencies (`npx mcp-setup-tool`).
+
 ## Hosting
 
 > Libraries & platforms for hosting MCP servers.
