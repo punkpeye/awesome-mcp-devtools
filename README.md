@@ -262,6 +262,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [AZERDSQ131/mcp-forge](https://github.com/AZERDSQ131/mcp-forge) 📇 - Universal MCP server package manager (`mcpm`). One command installs and auto-configures servers across all AI clients (Claude Code, Cursor, VS Code, Windsurf, Zed, Codex, Gemini CLI). 1000+ servers in registry, multi-runtime (npx/uvx/Docker/Go/Deno), team sync via `.mcpmrc`. `npx mcp-fleet install github`
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
