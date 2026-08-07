@@ -279,6 +279,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [Archstone-Romania/archstone](https://github.com/Archstone-Romania/archstone) 📇 - Compiles a business-level capability description into an MCP server through a target-agnostic IR. `archstone init` drafts a manifest from an OpenAPI spec, asks the questions a spec cannot answer, and writes nothing that fails to compile; `archstone verify` replays a recorded fixture against the live backend to catch contract drift.
 
 ## Hosting
 
