@@ -215,6 +215,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
+- [authgent/authgent](https://github.com/authgent/authgent) 🐍 - OAuth 2.1 conformance scanner for MCP servers. `authgent-server lint <url>` grades a server A–F against the MCP authorization spec and its underlying RFCs (9728 Protected Resource Metadata, 8414, 7636 PKCE, 8707 Resource Indicators, 9207). Runs as a CLI, a GitHub Action, or a hosted scanner, and emits an embeddable badge.
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
 
