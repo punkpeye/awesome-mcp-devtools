@@ -285,6 +285,7 @@ Public test endpoints:
 > Libraries & platforms for hosting MCP servers.
 
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) 📇 – Production MCP server for agentic commerce: 11M+ products across Singapore, SEA, and US markets via 8 MCP tools (search, compare, deals, categories, best-price, similar, ingest). Free API keys. Live on the official MCP Registry as `io.github.BuyWhere/buywhere-mcp`. Reference deployable MCP server for agentic commerce.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 - [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
 
