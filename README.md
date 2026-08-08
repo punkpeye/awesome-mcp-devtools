@@ -90,6 +90,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [wong2/LiteMCP](https://github.com/wong2/litemcp) 📇 - A high-level framework for building MCP servers in JavaScript/TypeScript
 - [ModelFetch](https://github.com/phuctm97/modelfetch) 📇 - A runtime-agnostic SDK to create and deploy MCP servers anywhere TypeScript/JavaScript runs
 - [ribeirogab/simple-mcp](https://github.com/ribeirogab/simple-mcp) 📇 - A simple TypeScript library for creating MCP servers
+- [forcedreamai/forcedream-sdk-js](https://github.com/forcedreamai/forcedream-sdk-js) 📇 - Official JavaScript/TypeScript SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 - [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
 - [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
@@ -108,12 +109,14 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
 - [basementstudio/xmcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 - [claw-army/claude-node](https://github.com/claw-army/claude-node) 🐍 - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
+- [forcedreamai/forcedream-sdk-python](https://github.com/forcedreamai/forcedream-sdk-python) 🐍 - Official Python SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Java
 
 - [quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ☕ - Java SDK for building MCP servers using Quarkus
 - [spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ - Java SDK and Spring Framework integration for building MCP client and MCP servers
 - [tinystruct-mcp](https://github.com/tinystruct/tinystruct-mcp) ☕ - Java SDK and establishing an extensible MCP server based on lightweight tinystruct framework
+- [forcedreamai/forcedream-sdk-java](https://github.com/forcedreamai/forcedream-sdk-java) ☕ - Real Java SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
   
 ### Go
 
@@ -122,20 +125,24 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) 🏎️ - Golang framework for building MCP Servers, focussed on type safety
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) 🏎️ 🎖️ - The official Go SDK for MCP servers and clients, maintained in collaboration with Google
 - [strowk/foxy-contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
+- [forcedreamai/forcedream-sdk-go](https://github.com/forcedreamai/forcedream-sdk-go) 🏎️ - Official Go SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Rust
 
 - [linux-china/mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - MCP CLI server template for Rust
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK
 - [poem-web/poem#poem-mcpserver](https://github.com/poem-web/poem/tree/master/poem-mcpserver) 🦀 - MCP Server implementation for Poem
+- [forcedreamai/forcedream-sdk-rust](https://github.com/forcedreamai/forcedream-sdk-rust) 🦀 - Real Rust SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Kotlin
 
 - [http4k MCP SDK](https://mcp.http4k.org) 🔶 - Functional, testable Kotlin SDK based around the popular [http4k](https://http4k.org) Web toolkit
+- [forcedreamai/forcedream-sdk-kotlin](https://github.com/forcedreamai/forcedream-sdk-kotlin) 🔶 - Real Kotlin SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### C#/.NET
 
 - [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣ - A C# SDK for building MCP servers on .NET 9 with NativeAOT compatibility ⚡ 🔌
+- [forcedreamai/forcedream-sdk-csharp](https://github.com/forcedreamai/forcedream-sdk-csharp) #️⃣ - Real C# SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Scala
 
@@ -144,15 +151,18 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Dart
 
 - [leehack/mcp_dart](https://github.com/leehack/mcp_dart/) 🎯 - This library aims to provide a simple and intuitive way to implement MCP servers and clients in Dart 
+- [forcedreamai/forcedream-sdk-dart](https://github.com/forcedreamai/forcedream-sdk-dart) 🎯 - Real Dart/Flutter SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Ruby
 
 - [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) 💎 🎖️ - Official Ruby SDK for building MCP servers
 - [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) 💎 - Ruby on Rails MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
+- [forcedreamai/forcedream-sdk-ruby](https://github.com/forcedreamai/forcedream-sdk-ruby) 💎 - Real Ruby SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Elixir
 
 - [tidewave-ai/tidewave_phoenix](https://github.com/tidewave-ai/tidewave_phoenix) 💧 - Phoenix MCP, speed up development with AI assistants that understand your web application, how it runs, and what it delivers
+- [forcedreamai/forcedream-sdk-elixir](https://github.com/forcedreamai/forcedream-sdk-elixir) 💧 - Real Elixir SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### C/C++
 
@@ -161,6 +171,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Swift
 
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) 🍎 🎖️ - Official Swift SDK for building with MCP.
+- [forcedreamai/forcedream-sdk-swift](https://github.com/forcedreamai/forcedream-sdk-swift) 🍎 - Real Swift SDK for ForceDream: discover, invoke, and cryptographically verify AI agents.
 
 ### Bash
 
