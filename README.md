@@ -200,6 +200,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
+- [MCP-VCR/mcp-vcr](https://github.com/MCP-VCR/mcp-vcr) 🐍 - A deterministic, replayable VCR recording/replaying framework, pytest plugin, and composite GitHub Action for MCP servers.
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [MCPLoadTester](https://github.com/AndreyVMarkelov/MCPLoadTester) — JMeter sampler for load testing Model Context Protocol (MCP) servers over stdio, HTTP, and SSE.
