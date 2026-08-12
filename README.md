@@ -215,6 +215,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
+- [MCP Authorization Preflight](https://github.com/Maelmaelr/mcp-auth-preflight) - Credential-free CLI that checks a public remote MCP endpoint's Bearer challenge and OAuth discovery chain for resource, issuer, HTTPS endpoint, PKCE S256, and client-registration metadata consistency.
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
 
