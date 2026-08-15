@@ -7,6 +7,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
 
 > [!IMPORTANT]
 > Browse [MCP servers](https://glama.ai/mcp/servers)
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)
 
 ## Contents
 
@@ -90,7 +91,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [wong2/LiteMCP](https://github.com/wong2/litemcp) 📇 - A high-level framework for building MCP servers in JavaScript/TypeScript
 - [ModelFetch](https://github.com/phuctm97/modelfetch) 📇 - A runtime-agnostic SDK to create and deploy MCP servers anywhere TypeScript/JavaScript runs
 - [ribeirogab/simple-mcp](https://github.com/ribeirogab/simple-mcp) 📇 - A simple TypeScript library for creating MCP servers
-- [firebase/genkit#mcp](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
+- [firebase/genkit#mcp](https://github.com/genkit-ai/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP)
 - [MCPcat](https://github.com/mcpcat/mcpcat-typescript-sdk) 📇 - User analytics, session tracking, and live debugging for MCPs
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
 - [FrontMCP](https://github.com/agentfront/frontmcp) 📇 — A TypeScript-first framework for building extensible MCP servers with decorators, dependency injection, and modular architecture.
