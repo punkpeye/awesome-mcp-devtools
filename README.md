@@ -217,6 +217,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
+- [MCPComp](https://www.npmjs.com/package/mcpcomp) 📇 - Scanner and monitor for MCP server authentication: `npx mcpcomp <url>` grades the OAuth layer with every finding citing the spec requirement it violates, `doctor` classifies whose layer broke, and baseline diffs alert on configuration drift
 
 Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
