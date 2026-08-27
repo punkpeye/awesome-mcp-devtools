@@ -279,7 +279,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
-- [UIZZE](https://github.com/uizze/uizze) 📇 - Free anti-ui-slop Skill and deterministic `check_ui_slop` MCP preview for coding agents; full UIZZE adds live UI research across 800,000+ real web and iOS screens, design contracts, validation, audits, and rendered critique.
+- [UIZZE](https://github.com/uizze/uizze) 📇 - Free anti-ui-slop Skill and conservative GitHub Action for coding agents; the optional authenticated MCP provides `find_ui_references` and `find_ui_materials` over 800,000+ real web and iOS screens.
 
 ## Hosting
 
