@@ -191,6 +191,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [dhyansraj/mcp-mesh](https://github.com/dhyansraj/mcp-mesh) 🐍 📇 - Distributed orchestration framework for MCP servers with automatic discovery, dependency injection, and Kubernetes-native scaling
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) 📇 - Local-first TypeScript runtime for persistent and auditable AI agent sessions, with a stdio MCP bridge, sandboxed tools, memory, credentials, audit logs, and replay
 
 ## Testing Tools
 > Tools for testing MCP servers and clients
