@@ -254,6 +254,7 @@ Public test endpoints:
 - [multi-mcp](https://github.com/kfirtoledo/multi-mcp) 🐍 - A flexible and dynamic Multi-MCP Proxy Server that acts as a single MCP server while connecting to and routing between multiple backend MCP servers over STDIO or SSE. Deployable on Kubernetes by exposing a single port, and supports dynamic addition and removal of MCP servers at runtime.
 - [MCPProxy](https://github.com/smart-mcp-proxy/mcpproxy-go) 🏎️ - Smart MCP proxy with BM25 tool discovery, quarantine security, Docker isolation, and web UI
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) 📇 - A TypeScript SSE proxy for MCP servers that use `stdio` transport
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) 📇 - Self-hosted MCP bridge and agent runtime with tool permissions, approvals, credential handling, audit/replay, and Docker/Kubernetes sandboxes
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – An openAI middleware proxy to use MCP in any existing openAI compatible client
 - [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 – A governance proxy for MCP servers that adds policy-based access control, human approval workflows, and hash-chain audit trails. Wraps any upstream MCP server with zero code changes via `.mcp.json` configuration.
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
