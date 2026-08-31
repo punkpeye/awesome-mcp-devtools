@@ -198,6 +198,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
+- [FusionOnePlatform/mcprigor](https://github.com/FusionOnePlatform/mcprigor) 📇 - Deterministic black-box test framework for MCP servers. Natural-language tests (no code, no AI interpreting the wording), contract locks with drift classification, sanitized evidence bundles, stdio↔Streamable HTTP transport parity, a local QA web workspace, and an MCP server mode (`mcprigor serve`) so coding agents can write, validate, and run tests over MCP.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
