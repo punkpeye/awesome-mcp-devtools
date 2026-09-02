@@ -262,6 +262,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [denisvyatkin/mcp-token-calc](https://github.com/denisvyatkin/mcp-token-calc) - Client-side calculator that estimates the token cost of an MCP server's tool schemas (name, description, and inputSchema, as actually serialized to the model), ranked worst-offender-first. No install, no account, no data leaves the browser.
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
