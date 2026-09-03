@@ -176,6 +176,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 > High-level frameworks for working with MCP servers
 
+- [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge) 📇 - Full-stack React framework for MCP Apps and ChatGPT Apps. End-to-end type inference from server tool definition to React view, React Query-style hooks, dev server with local emulator, HMR and a permanent tunnel to Claude and ChatGPT. One app runs across Claude, ChatGPT, VS Code and other UI-enabled MCP clients.
 - [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ – Native MCP server from a safety-first agent orchestration platform. Supports stdio + HTTP/SSE transports with 6 tools (job submission, policy evaluation, output scanning, workflow triggering, audit queries, pool status) and 7 resources.
 - [hasmcp/hasmcp-ce](https://github.com/hasmcp/hasmcp-ce) 🤖📇🏎️ - Convert your API to MCP server with built-in authentication, authorization, real-time request/response logs and metrics. HasMCP is a no-code, self-hosted API to MCP server bridge.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns
@@ -284,6 +285,7 @@ Public test endpoints:
 
 > Libraries & platforms for hosting MCP servers.
 
+- [Alpic](https://alpic.ai/) - hosting for MCP servers and MCP Apps, with MCP-specific analytics, permanent tunneling, and app store compliance auditing.
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 - [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
@@ -295,6 +297,7 @@ Public test endpoints:
 - [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
 - [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
 - [rails-mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) 💎 - A Rails template for creating Paid MCP servers compatible with Claude Integrations. It uses Rails 8.0.2, Devise, Doorkeeper, FastMCP and Stripe. Has a built-in UI.
+- [apps-sdk-template](https://github.com/alpic-ai/apps-sdk-template) 📇 - A minimalist TypeScript ChatGPT App built on the Skybridge framework.
 
 
 ## Resources
