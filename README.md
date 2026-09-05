@@ -196,6 +196,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 > Tools for testing MCP servers and clients
 
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
+- [athakur3/mcp-context-cost](https://github.com/athakur3/mcp-context-cost) 📇 - Measures what an MCP server costs in context tokens (o200k over the canonical `tools/list` capture) and gates it in CI; publishes a measured leaderboard of popular servers with raw captures, hashes, a Claude-tokenizer column and a shields badge. Also audits the servers in your own Claude / Cursor / VS Code / Windsurf configs.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
