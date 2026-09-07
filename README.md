@@ -258,6 +258,7 @@ Public test endpoints:
 - [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 – A governance proxy for MCP servers that adds policy-based access control, human approval workflows, and hash-chain audit trails. Wraps any upstream MCP server with zero code changes via `.mcp.json` configuration.
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateway
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates multiple MCP resource servers through a single HTTP server
+- [v01dst/ctxslim](https://github.com/v01dst/ctxslim) 📇 - Put your MCP servers on a diet. 100% local proxy that cuts context bloat by up to 72% (33.4k → 9.2k tokens). Zero-config, zero API keys.
 - [aakashh242/remote-mcp-adapter](https://github.com/aakashh242/remote-mcp-adapter) 🐍 - An MCP gateway that fixes the "remote filesystem" problem: client sent files become staged uploads, server generated files become fetchable MCP resources.
 
 ### Development Tools
