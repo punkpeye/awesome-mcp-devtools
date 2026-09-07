@@ -272,6 +272,7 @@ Public test endpoints:
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) 📇 - Records a coding agent's whole session, MCP included: the JSON-RPC tee puts every tool call on the same timeline as the model traffic, the shell exit codes and the per-turn file changes. Replays the session offline with the network off, or forks it from a checkpoint onto a different model.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) 🏎️ - ToolHive (thv) is a lightweight utility designed to simplify the deployment and management of MCP (Model Context Protocol) servers, ensuring ease of use, consistency, and security.
 - [onUI](https://github.com/onllm-dev/onUI) 📇 - Browser extension and MCP server for annotation-first UI pair programming with AI agents. Annotate, draw, and capture UI context from any webpage. 8 MCP tools. Claude Code, Cursor, Windsurf compatible.
 - [StacklokLabs/toolhive](https://github.com/Stacklok/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
