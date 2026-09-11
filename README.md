@@ -215,6 +215,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
+- [unempyd/X190](https://github.com/unempyd/X190) 🐍 - Probes a deployed endpoint for whether it serves its tool list unauthenticated, and whether a refusal carries a followable RFC 9728 challenge; runs as a CLI or a GitHub Action that fails the build
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
 
