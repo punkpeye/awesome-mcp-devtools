@@ -222,6 +222,7 @@ Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
 - [Sentry MCP Server](https://mcp.sentry.dev/sse) - Production SSE endpoint for testing OAuth flows  
 - [Atlassian MCP Server](https://mcp.atlassian.com/v1/sse) - Production SSE endpoint for testing OAuth flows (requires allowlisting)
+- [gostanos/smallprint-action](https://github.com/gostanos/smallprint-action) 📇 - GitHub Action and CLI that fail the build when an MCP server's version, a skill's files or an instruction file (CLAUDE.md, AGENTS.md, .mcp.json) moved away from a committed lock. Local, sends nothing.
 
 ## Libraries
 
