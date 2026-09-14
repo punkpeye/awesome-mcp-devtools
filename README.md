@@ -211,6 +211,9 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
+- [vishalhabib99/mcp-doctor](https://github.com/vishalhabib99/mcp-doctor) 🐍 - Static analyzer for MCP server source code: flags spec-conformance gaps, security patterns (dangerous eval/exec, SSRF), and quality issues (missing descriptions, undocumented params, unhandled errors) with an A-F grade.
+- [vishalhabib99/mcp-fuzz](https://github.com/vishalhabib99/mcp-fuzz) 🐍 - Runtime fuzzer that calls every tool with schema-derived valid/invalid inputs to catch crashes, hangs, concurrency bugs, and stale-state issues via create/read/delete lifecycle checks.
+- [vishalhabib99/mcp-reality-check](https://github.com/vishalhabib99/mcp-reality-check) 🐍 - Checks whether a server's successful tool responses actually reflect reality — catches disguised refusals, empty content, and output that doesn't match its declared schema.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
