@@ -227,6 +227,7 @@ Public test endpoints:
 
 > Reusable code libraries and components for MCP servers
 
+- [Allowly-AI/allowly-mcp](https://github.com/Allowly-AI/allowly-mcp) 📇 - Middleware that checks MCP tool calls against hosted Allowly policies before running the tool handler
 - [cnap-tech/codemode](https://github.com/cnap-tech/codemode) 📇 - Programmatic tool calling (Code Mode) for MCP — turn any OpenAPI spec into two sandboxed tools (search + execute) instead of hundreds of hand-written tools
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) 📇 - CodeMirror extension that implements MCP for resource mentions and prompt commands
 - [jhgaylor/express-mcp-handlder](https://github.com/jhgaylor/express-mcp-handler) 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
