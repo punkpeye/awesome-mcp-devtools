@@ -248,6 +248,7 @@ Public test endpoints:
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
 - [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 - A lightweight gateway & registry for MCP servers with NAT traversal support, allowing edge devices to provide MCP services across networks. Features include WebSocket/SSE/HTTP endpoints, authentication, IPv6 support, and a CLI tool for easy registration of stdio-based MCP servers.
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) 📇 - An MCP workspace manager to bundle and manage MCP servers in dedicated local workspaces (e.g., for coding, design, research).
+- [k2so-dev/junqt](https://github.com/k2so-dev/junqt) 📇 - Self-hosted MCP gateway that puts stdio, Docker and remote servers behind one endpoint per client, with API keys or a built-in OAuth authorization server downstream, proactive upstream OAuth refresh, and a web UI. A custom server wrapping an OpenAPI spec inherits the same downstream OAuth.
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🌳 - Self-hosted MCP Registry and Proxy for ai agents
 - [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) 🏎️ - Production-ready MCP proxy with BM25 tool filtering, quarantine security, activity logging, and web UI for routing multiple MCP servers through a single endpoint.
