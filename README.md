@@ -242,6 +242,7 @@ Public test endpoints:
 
 ### Proxies and Gateways
 
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon) 🐍 - A zero-dependency Python CLI that discovers the MCP servers already configured on a machine, keeps one config in sync across clients, and serves them all through a single stdio MCP server; tool listings ship names-only by default (255 tools listed in 581 tokens instead of 71,929, measured with tiktoken)
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
