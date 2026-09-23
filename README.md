@@ -263,6 +263,7 @@ Public test endpoints:
 ### Development Tools
 
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex) 📇 - Generate typed MCP servers, SDKs, and API documentation from OpenAPI, AsyncAPI, GraphQL, Protocol Buffer, OpenRPC, and Markdown.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
 - [f/MCPTools](https://github.com/f/mcptools) 🏎️ - A command-line development tool for inspecting and interacting with MCP servers
