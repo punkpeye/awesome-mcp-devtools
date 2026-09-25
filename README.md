@@ -195,7 +195,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools
 > Tools for testing MCP servers and clients
 
-- [tomelias10/mcp-drift-check](https://github.com/tomelias10/mcp-drift-check) 🐍 - Passive CLI that auto-discovers common MCP client configs and flags mutable npm/npx package references (`@latest`, bare packages, and non-exact selectors) without executing servers, downloading packages, or uploading configuration data.
+- [tomelias10/mcp-drift-check](https://github.com/tomelias10/mcp-drift-check) 🐍 - Zero-execution MCP config scanner and GitHub Action that flags mutable npm/npx package references (`@latest`, bare packages, and non-exact selectors), with Markdown and SARIF output for CI; no API token, server execution, package downloads, or config uploads.
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
