@@ -284,6 +284,7 @@ Public test endpoints:
 
 > Libraries & platforms for hosting MCP servers.
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) – hosted remote MCP capability layer connecting agents to 1,000+ apps and 400+ Skills via one endpoint (`https://loadout.aident.ai/mcp`), with vaulted credentials and audit logs. Site: https://aident.ai
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 - [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
