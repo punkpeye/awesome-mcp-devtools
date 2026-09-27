@@ -243,6 +243,7 @@ Public test endpoints:
 ### Proxies and Gateways
 
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
+- [agenthof/agenthof](https://github.com/agenthof/agenthof) 🏎️ - Governance gateway that fronts MCP servers per agent: per-tool allowlists and read-only grants (default-deny), per-call credential injection so the agent never holds the server's secret, and a hash-chained, tamper-evident audit ledger. Part of a broader control plane that also fronts model and exec calls. Apache-2.0.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
