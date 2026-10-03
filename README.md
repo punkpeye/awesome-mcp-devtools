@@ -33,6 +33,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   - [Frameworks](#frameworks)
   - [Testing Tools](#testing-tools)
     - [Authorization Testing](#authorization-testing)
+    - [simplymanas/mcp-master-tester](https://github.com/simplymanas/mcp-master-tester) 📇 - Local web UI to test any MCP server over stdio, Streamable HTTP and SSE, with schema-driven tool forms, auth prompts, elicitation, tool-definition linting and a live JSON-RPC log.
   - [Libraries](#libraries)
   - [Utilities](#utilities)
     - [Proxies and Gateways](#proxies-and-gateways)
