@@ -211,6 +211,9 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
+- [basitalisandhu/mcp-auth-doctor](https://github.com/basitalisandhu/mcp-auth-doctor) 🐍 - Read-only CLI that diagnoses OAuth discovery problems on remote MCP servers: the 401 challenge, protected resource metadata, authorization server metadata, PKCE S256, client registration and token endpoint errors.
+- [basitalisandhu/mcp-egress](https://github.com/basitalisandhu/mcp-egress) 🐍 - Records every host an MCP server contacts, per tool, behind an embedded CONNECT proxy, writes egress.json and fails CI on new hosts.
+- [basitalisandhu/mcp-tools-lint](https://github.com/basitalisandhu/mcp-tools-lint) 📇 - Lints MCP tool schemas and annotations from tools/list over stdio, Streamable HTTP or a JSON file. Text, JSON and SARIF output, RFC 6902 fix patch, GitHub Action.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -279,6 +282,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [basitalisandhu/claude-mcp-allow](https://github.com/basitalisandhu/claude-mcp-allow) 📇 - Generates least-privilege Claude Code permission rules for MCP tools from their live annotations: read-only tools to allow, everything else to ask. Merges into settings files and has a drift check for CI.
 
 ## Hosting
 
