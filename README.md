@@ -199,6 +199,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
+- [nickgeorgeseo/fieldtwin](https://github.com/nickgeorgeseo/fieldtwin) 📇 - Test MCP clients and AI agents against local twins of the Jobber and QuickBooks Online APIs: an MCP server checkpoints the world, lists exactly what the agent changed, and rewinds, while the APIs throttle, fail, or lose answers on demand.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
