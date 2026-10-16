@@ -303,6 +303,9 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [free-remote-mcp-servers](https://github.com/diegobruegger-prog/free-remote-mcp-servers) - Weekly test of every remote endpoint in the official MCP Registry (initialize + tools/list, no credentials): which servers answer without a key, as CSV/JSON.
+- [MCP tool description best practices](https://shortformkit.com/mcp-tool-description-best-practices/) - Data from 2,778 tools on 295 public servers: parameter documentation, usage guidance, annotations, with a checklist.
+- [State of remote MCP servers 2026](https://shortformkit.com/state-of-remote-mcp-servers-2026/) - Analysis of all 28,933 remote endpoints in the official registry: how many answer, why the rest fail, transports, hosting, tool counts, template copies.
 
 ## Tutorials
 
