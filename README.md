@@ -301,6 +301,7 @@ Public test endpoints:
 
 > Documentation, guides, standards, and learning materials for Model Context Protocol and MCP server development.
 
+- [MCPWatch](https://mcpwatch-zeta.vercel.app) — Nightly-refreshed security dashboard for the top 100 official MCP registry servers: OSV advisories, maintenance/license transparency, and detection of registry metadata changes made without a version bump. Public scoring methodology.
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 
