@@ -294,6 +294,7 @@ Public test endpoints:
 
 - [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
 - [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
+- [mcp-server-template](https://github.com/wuzzheng/mcp-server-template) 📇 🐍 - Minimal stdio MCP server template in TypeScript (official SDK + Zod) and Python (mcp 2.x MCPServer) with an example tool and Claude Desktop / Cursor config.
 - [rails-mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) 💎 - A Rails template for creating Paid MCP servers compatible with Claude Integrations. It uses Rails 8.0.2, Devise, Doorkeeper, FastMCP and Stripe. Has a built-in UI.
 
 
