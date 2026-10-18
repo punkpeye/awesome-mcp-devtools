@@ -33,6 +33,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   - [Frameworks](#frameworks)
   - [Testing Tools](#testing-tools)
     - [Authorization Testing](#authorization-testing)
+- [Linters & Validators](#linters--validators)
   - [Libraries](#libraries)
   - [Utilities](#utilities)
     - [Proxies and Gateways](#proxies-and-gateways)
@@ -211,6 +212,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
+- [glimind/check-action](https://github.com/glimind/check-action) 🤖 - GitHub Action that audits an MCP server in CI: agent-readiness grade and tool-poisoning scan.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -222,6 +224,12 @@ Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
 - [Sentry MCP Server](https://mcp.sentry.dev/sse) - Production SSE endpoint for testing OAuth flows  
 - [Atlassian MCP Server](https://mcp.atlassian.com/v1/sse) - Production SSE endpoint for testing OAuth flows (requires allowlisting)
+
+## Linters & Validators
+
+Tools for linting, validating, and checking MCP servers.
+
+- [Glimind Check](https://glimind.com/check) - Web-based scanner: live reliability, agent-readiness grades and tool-poisoning scans for any public MCP server; no auth required.
 
 ## Libraries
 
