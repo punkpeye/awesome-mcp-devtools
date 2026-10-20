@@ -285,6 +285,7 @@ Public test endpoints:
 > Libraries & platforms for hosting MCP servers.
 
 - [Glama](https://glama.ai/mcp/servers) – offers hosting of open-source MCP servers, enabling developers and enterprises to easily discover build, manage MCP servers.
+- [Glxymesh](https://www.glxymesh.com) - Hosted MCP tools: write tools in Go, TypeScript, Python or YAML (or let AI draft them), served behind one OAuth endpoint, with keys kept in a vault, per-host approval, and every call logged. Free plan.
 - [Smithery](https://smithery.ai/) - cloud hosting MCP servers as a service via docker containers
 - [vitorbari/mcp-operator](https://github.com/vitorbari/mcp-operator) - Kubernetes operator for MCP servers with automatic protocol validation, horizontal scaling, and built-in observability.
 
