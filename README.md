@@ -195,6 +195,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ## Testing Tools
 > Tools for testing MCP servers and clients
 
+- [alexbuilding/webmcp-backlink-lens](https://github.com/alexbuilding/webmcp-backlink-lens) 📇 - Browser extension (Manifest V3) and W3C WebMCP (`navigator.modelContext`) inspector that probes `/.well-known/mcp.json`, `server-card.json`, and `/llms.txt` on any tab. [Docs](https://modevc.com/tools/webmcp-backlink-lens)
 - [AgentTrust](https://github.com/assister-xyz/quality-oracle) 🐍 - Quality verification service for MCP servers. Automated challenge-response testing with LLM judge consensus, adversarial probes, and IRT adaptive question calibration.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [mcpjam/inspector](https://github.com/MCPJam/inspector) - Testing and debugging MCP servers.
