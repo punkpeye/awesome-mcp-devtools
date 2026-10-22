@@ -236,6 +236,8 @@ Public test endpoints:
 - [olgasafonova/mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go) 🏎️ - OpenTelemetry instrumentation for Go MCP servers using the official go-sdk. One middleware call adds tracing and metrics for every method, following the OTel semantic conventions for MCP.
 - [DenisTheM/monapi](https://github.com/DenisTheM/monapi) 📇 - Add per-tool x402 micropayments to any MCP server. Agents pay in USDC per tool call — no API keys, no signup. Also supports Express and Next.js.
 
+- [mcp-schema](https://github.com/sourcey/mcp-schema) 📇 - TypeScript types and JSON Schema for static MCP server snapshots, including tools, resources, prompts, transports, and protocol revision metadata.
+
 ## Utilities
 
 > Useful tools for debugging, proxying, testing, and working with MCP servers
@@ -279,6 +281,8 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+
+- [mcp-parser](https://github.com/sourcey/mcp-parser) 📇 - CLI and library to snapshot MCP servers, validate the resulting mcp.json, and generate Markdown and agent-readable reference documentation.
 
 ## Hosting
 
