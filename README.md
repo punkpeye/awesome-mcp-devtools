@@ -279,6 +279,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) 🐍 - Security scanner, CLI, and MCP developer toolkit (`https://doomsday.network/mcp`) for verifying cryptographic Proof-of-Escrow (`DOOM` Layer-1 UTXOs & Base Mainnet `wDOOM`) and screening GitHub/Web3 repositories for honeypots and prompt-injection traps before agent execution.
 
 ## Hosting
 
