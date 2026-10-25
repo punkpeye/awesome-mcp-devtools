@@ -209,6 +209,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) - MCP-native eval & observability. 12 built-in eval rules, trace logging, cost tracking. Agents discover it automatically — zero code changes.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
+- [kanchingyg/agent-cassette](https://github.com/kanchingyg/agent-cassette) 📇 - Deterministic HTTP/SSE VCR for LLM and MCP agent runs with offline CI replay.
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
 
@@ -248,6 +249,7 @@ Public test endpoints:
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
 - [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 - A lightweight gateway & registry for MCP servers with NAT traversal support, allowing edge devices to provide MCP services across networks. Features include WebSocket/SSE/HTTP endpoints, authentication, IPv6 support, and a CLI tool for easy registration of stdio-based MCP servers.
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) 📇 - An MCP workspace manager to bundle and manage MCP servers in dedicated local workspaces (e.g., for coding, design, research).
+- [kanchingyg/mcp-crush](https://github.com/kanchingyg/mcp-crush) 📇 - Stdio MCP proxy that minifies tool schemas and prunes oversized JSON tool results to save context tokens.
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🌳 - Self-hosted MCP Registry and Proxy for ai agents
 - [mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) 🏎️ - Production-ready MCP proxy with BM25 tool filtering, quarantine security, activity logging, and web UI for routing multiple MCP servers through a single endpoint.
@@ -262,6 +264,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [kanchingyg/repomcp](https://github.com/kanchingyg/repomcp) 📇 - Turn any repo, CLI binary, OpenAPI spec, or SQLite DB into a guarded MCP server; includes local embedding normalizer.
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
