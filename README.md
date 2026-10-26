@@ -222,6 +222,7 @@ Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
 - [Sentry MCP Server](https://mcp.sentry.dev/sse) - Production SSE endpoint for testing OAuth flows  
 - [Atlassian MCP Server](https://mcp.atlassian.com/v1/sse) - Production SSE endpoint for testing OAuth flows (requires allowlisting)
+- [Scalekit MCP Server](https://mcp.scalekit.com/) - Production Streamable HTTP endpoint for testing OAuth 2.1 flows (returns a `WWW-Authenticate` challenge and `/.well-known/oauth-protected-resource` metadata)
 
 ## Libraries
 
