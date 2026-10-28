@@ -279,6 +279,8 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [mybolide/mcp-probe-kit](https://github.com/mybolide/mcp-probe-kit) 📇 - Spec-driven development workflow MCP: `start_feature` / `start_bugfix` / `start_ui` orchestrate the flow, plans resume across sessions, and a converge gate requires spec, test and review evidence before a task can close. `npx -y mcp-probe-kit@latest`.
+- [mybolide/coding-tools-mcp](https://github.com/mybolide/coding-tools-mcp) 🦀 - Desktop MCP workspace (Rust + Tauri 2) giving agents file edits, command and test execution, Git status, and resumable history sessions on a local project. Windows and macOS installers.
 
 ## Hosting
 
