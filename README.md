@@ -191,6 +191,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [dhyansraj/mcp-mesh](https://github.com/dhyansraj/mcp-mesh) 🐍 📇 - Distributed orchestration framework for MCP servers with automatic discovery, dependency injection, and Kubernetes-native scaling
 - [xmcp](https://github.com/basementstudio/xmcp) 📇 - A TypeScript framework with file-system routing & complete toolkit
 - [Kryfto](https://github.com/ExceptionRegret/Kryfto) 📇 - Open-source web-browsing backend for AI agents with a 42-tool MCP server for Claude Code/Cursor/Codex, REST API for n8n/Zapier/Make, federated multi-engine search, and enterprise infrastructure
+- [forjr/forjr](https://github.com/forjr/forjr) 📇 - Full-stack React framework where any function becomes an MCP tool with OAuth sign-in, a REST endpoint with OpenAPI and a CLI command with one option. Tool inputs and descriptions are generated from the definitions, calls run with the caller's permissions, and risky tools ask a person first.
 
 ## Testing Tools
 > Tools for testing MCP servers and clients
