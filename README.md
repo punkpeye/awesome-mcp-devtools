@@ -211,6 +211,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
+- [smusali/mcp-cross-exam](https://github.com/smusali/mcp-cross-exam) 🐍 - Black-Box CLI that cross-examines an MCP Server over stdio, streamable HTTP, or SSE: transport and session probes, declared-versus-observed schema checks, a scored JSON/HTML report, and CI exit codes.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
@@ -269,6 +270,7 @@ Public test endpoints:
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
 - [rodaddy/mcp2cli](https://github.com/rodaddy/mcp2cli) 📇 - CLI bridge that wraps MCP servers as bash-invokable commands, recovering ~11K tokens of context window per session
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) 🐍 - Turns an OpenAPI Spec into a curated Python MCP Server, then calls every generated tool against the API and reports which ones work.
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
