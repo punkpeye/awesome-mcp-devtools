@@ -295,7 +295,7 @@ Public test endpoints:
 - [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
 - [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
 - [rails-mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) 💎 - A Rails template for creating Paid MCP servers compatible with Claude Integrations. It uses Rails 8.0.2, Devise, Doorkeeper, FastMCP and Stripe. Has a built-in UI.
-- [ravenkernel/mcplint](https://github.com/ravenkernel/mcplint) 🐍 - A CI gate for MCP client config: a field it cannot model becomes a finding, so a pull request fails instead of silently passing. Policy baseline and drift detection, zero dependencies.
+- [ravenkernel/mcp-policy-lint](https://github.com/ravenkernel/mcp-policy-lint) 🐍 - A CI gate for MCP client config: a field it cannot model becomes a finding, so a pull request fails instead of silently passing. Policy baseline and drift detection, zero dependencies.
 
 
 ## Resources
