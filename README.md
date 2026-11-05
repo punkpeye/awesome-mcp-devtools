@@ -301,6 +301,7 @@ Public test endpoints:
 
 > Documentation, guides, standards, and learning materials for Model Context Protocol and MCP server development.
 
+- [MCP servers over stdio: latency and failures](https://theagenticweekly.com/research/mcp-servers-latency-and-failures) — Measured cold start, tools/list and per-call latency for 15 MCP server setups with the official Python SDK, plus the setup failures hit along the way
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 
