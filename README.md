@@ -312,5 +312,6 @@ Public test endpoints:
 
 ## Related awesome lists:
 
+- [awesome-agent-mcp](https://github.com/guanmo-ai/awesome-agent-mcp) — Directory of official MCP servers, agent skills, and CLIs from Chinese service vendors; 104 entries with an [llms.txt index](https://guanmo-ai.github.io/awesome-agent-mcp/llms.txt).
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
