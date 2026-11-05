@@ -303,6 +303,7 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [MCP Explained](https://mcp-explained.com) — Interactive, animated walkthrough of the Model Context Protocol: every JSON-RPC message on the wire, a spec time machine across versions, and MCP attacks played step by step
 
 ## Tutorials
 
