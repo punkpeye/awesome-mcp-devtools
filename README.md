@@ -95,6 +95,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [Mastra AI](https://github.com/mastra-ai/mastra) 📇 - Mastra is a Typescript-based AI agent framework that can be used to author MCP servers.
 - [FrontMCP](https://github.com/agentfront/frontmcp) 📇 — A TypeScript-first framework for building extensible MCP servers with decorators, dependency injection, and modular architecture.
 - [NeuroLink](https://github.com/juspay/neurolink) 📇 - TypeScript-first multi-provider AI SDK from Juspay with built-in MCP client support, 13 major AI providers and 100+ models, streaming, tool calling, and production-grade agent orchestration.
+- [wakeshift/wakeshift-node](https://github.com/wakeshift/wakeshift-node) 📇 - Lets an MCP server wake the AI agents that use it. When a long job finishes, a person replies or anything else happens in your app, your server calls `emit`, and the conversation that asked wakes up with it, in Claude Code, Codex, Cursor or another agent.
 
 ### Python
 
@@ -108,6 +109,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [MCPcat](https://github.com/mcpcat/mcpcat-python-sdk) 🐍 - User analytics, session tracking, and live debugging for MCPs
 - [basementstudio/xmcp](http://github.com/raw-labs/mxcp) 🐍 - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 - [claw-army/claude-node](https://github.com/claw-army/claude-node) 🐍 - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
+- [wakeshift/wakeshift-python](https://github.com/wakeshift/wakeshift-python) 🐍 - Lets an MCP server wake the AI agents that use it. When a long job finishes, a person replies or anything else happens in your app, your server calls `emit`, and the conversation that asked wakes up with it, in Claude Code, Codex, Cursor or another agent.
 
 ### Java
 
@@ -122,6 +124,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) 🏎️ - Golang framework for building MCP Servers, focussed on type safety
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) 🏎️ 🎖️ - The official Go SDK for MCP servers and clients, maintained in collaboration with Google
 - [strowk/foxy-contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
+- [wakeshift/wakeshift-go](https://github.com/wakeshift/wakeshift-go) 🏎️ - Lets an MCP server wake the AI agents that use it. When a long job finishes, a person replies or anything else happens in your app, your server calls `emit`, and the conversation that asked wakes up with it, in Claude Code, Codex, Cursor or another agent.
 
 ### Rust
 
