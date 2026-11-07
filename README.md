@@ -211,12 +211,14 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
+- [glatinone/mcpscan](https://github.com/glatinone/mcpscan) 🐍 - Static supply-chain scanner for MCP servers and Claude Code projects. 30 rules mapped to the OWASP MCP Top 10 (tool poisoning incl. invisible-Unicode smuggling, command injection, risky permissions and hooks, leaked secrets, vulnerable SDK pins), SARIF output for CI. `pip install mcpscan-cli`.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
+- [glatinone/mcp-auth-harness](https://github.com/glatinone/mcp-auth-harness) 🐍 - Tests an MCP server against the 2026-07-28 authorization spec with 10 checks (protected resource metadata, audience and issuer validation, per-tool scopes, no token passthrough). Ships a naive baseline (2/10) and a hardened reference server (10/10).
 
 Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
