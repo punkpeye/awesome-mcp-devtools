@@ -309,6 +309,7 @@ Public test endpoints:
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 * [amirshk/mcp-secrets-plugin](https://github.com/amirshk/mcp-secrets-plugin) 🐍 - A reference code to securely store and retrieve sensitive information using the system's native keychain
 * [AI Agents for beginners by Microsoft](https://youtu.be/OhI005_aJkA?si=4nclgu-qAGgM57RJ) 🐍 #️⃣ Full Course (Lessons 1–10) using Semantic Kernel – Theoretical and practical content (1 hour)
+* [How to Test an MCP Server](https://fabwaseem.com/blog/test-mcp-server) 📇 - Testing a TypeScript MCP server with Vitest and the SDK's in-memory transport, then over Streamable HTTP, and in CI with the Inspector CLI.
 
 ## Related awesome lists:
 
