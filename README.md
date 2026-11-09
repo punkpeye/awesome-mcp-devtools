@@ -279,6 +279,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [hamarshehmhmd/agentspill](https://github.com/hamarshehmhmd/agentspill) 🐍 - Finds secrets hardcoded in MCP client configs (`.mcp.json`, `.cursor/mcp.json`, `.vscode/mcp.json`, Codex, Gemini CLI) and agent files, checks whether they reached git history, and rewrites configs to env-variable references. Pre-commit hook and GitHub Action.
 
 ## Hosting
 
