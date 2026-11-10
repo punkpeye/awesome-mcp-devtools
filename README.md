@@ -215,6 +215,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
 
+- [GodSmasher/patchbay](https://github.com/GodSmasher/patchbay) 📇 - CLI and web scanner that audits remote MCP servers for OAuth 2.1 and authorization gaps from the outside. No credentials or account needed.
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
 
