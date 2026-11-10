@@ -243,6 +243,7 @@ Public test endpoints:
 ### Proxies and Gateways
 
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
+- [alan66603/talyx-mcp](https://github.com/alan66603/talyx-mcp) 🐍 - Zero-code observability proxy for stdio MCP servers: Prometheus `/metrics` via OpenTelemetry, a bundled Grafana dashboard and Alertmanager rules, and tracking of Multi Round-Trip (`input_required`) cycles, including silently abandoned ones. Does not record tool argument contents. `talyx wrap` puts your Claude Code servers behind it.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
