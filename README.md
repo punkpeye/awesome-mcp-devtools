@@ -211,6 +211,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [xkumakichi/veridict](https://github.com/xkumakichi/veridict) 📇 - Runtime trust scoring middleware for MCP servers. Logs tool executions, classifies failures (timeout/error/validation), applies time-decay weighting, and produces a trust verdict (yes/caution/no).
 - [KryptosAI/mcp-observatory](https://github.com/KryptosAI/mcp-observatory) 📇 - CLI + MCP server for testing MCP servers. Health scoring (0-100), schema quality audits, protocol conformance checks, JUnit/SARIF CI output, and badge generation. Works as both a CLI tool and an MCP server that AI agents can use to test other servers.
 - [Booyaka101/mcp-vet](https://github.com/Booyaka101/mcp-vet) 📇 - Zero-config CLI and library that scans MCP server source (TypeScript/JavaScript/Python) for patterns that break under the 2026-07-28 MCP spec, with autofix, SARIF output, and CI-ready exit codes.
+- [builditwithgk/mcp-reportcard](https://github.com/builditwithgk/mcp-reportcard) 🐍 - Report card for MCP server tools. Lints tool names, descriptions, input schemas and safety annotations with a concrete fix per issue, estimates per-turn token cost, and safely fuzzes read-only tools for error handling and stack-trace leaks. A–F grade, Markdown/JSON output, `--fail-under` for CI, plus an in-browser demo.
 
 ### Authorization Testing
 > Resources for testing MCP servers with authentication and authorization
