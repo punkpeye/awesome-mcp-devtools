@@ -279,6 +279,7 @@ Public test endpoints:
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
 - [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [builditwithgk/repo-cartographer](https://github.com/builditwithgk/repo-cartographer) 📇 - MCP server, CLI and GitHub Action that maps any repo (JS/TS + Python) into a Mermaid or Graphviz architecture diagram from deterministic facts (file tree, import graph, manifests, entry points) and enforces architecture rules (forbidden imports, cycles) in CI.
 
 ## Hosting
 
