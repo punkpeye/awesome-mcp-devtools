@@ -217,6 +217,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [NapthaAI/http-oauth-mcp-server](https://github.com/NapthaAI/http-oauth-mcp-server) 📇 - Example implementation of a remote MCP server with OAuth authentication
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk/tree/main/examples/servers/simple-auth/mcp_simple_auth) 🐍 🎖️ - Example authenticated SSE server in the official Python SDK
+- [Balanov/mcp-attest](https://github.com/Balanov/mcp-attest) 🐍 - Authorization conformance harness for MCP servers: test a live server against your own policy, as every identity, and produce signed evidence an auditor can verify
 
 Public test endpoints:
 - [Asana MCP Server](https://mcp.asana.com/sse) - Production SSE endpoint for testing OAuth flows
