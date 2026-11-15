@@ -227,6 +227,7 @@ Public test endpoints:
 
 > Reusable code libraries and components for MCP servers
 
+- [Automatron-workflows/hardwire](https://github.com/Automatron-workflows/hardwire) 📇 - MIT toolkit that infers draft action contracts from saved HTML, checks arguments against declared effects and approval floors, and compiles MCP tool descriptions through five local inspection tools. No account or API key.
 - [cnap-tech/codemode](https://github.com/cnap-tech/codemode) 📇 - Programmatic tool calling (Code Mode) for MCP — turn any OpenAPI spec into two sandboxed tools (search + execute) instead of hundreds of hand-written tools
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) 📇 - CodeMirror extension that implements MCP for resource mentions and prompt commands
 - [jhgaylor/express-mcp-handlder](https://github.com/jhgaylor/express-mcp-handler) 📇 - Bind an MCP server to an express server using the StreamableHTTP Transport
