@@ -262,6 +262,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [AgentsReady](https://agentsready.dev/mcp-server) 📇 - Remote MCP server (Streamable HTTP, no key) that audits any website for AI agents and AI search: checks bot walls, robots.txt for AI bots, llms.txt, schema, OpenAPI and MCP, returns a 0–100 score and paste-ready fixes. `https://agentsready.dev/mcp`
 - [koriyoshi2041/agentify](https://github.com/koriyoshi2041/agentify) 📇 - Transform any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, Skills, and more) with a single command.
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
