@@ -235,6 +235,7 @@ Public test endpoints:
 - [traceloop/openllmetry#opentelemetry-instrumentation-mcp](https://github.com/traceloop/openllmetry/tree/main/packages/opentelemetry-instrumentation-mcp) 🐍 - OpenTelemetry instrumentation for MCP Python that captures tool calls, notifications, listing, initialization handshakes and propagates traces from client to server.
 - [olgasafonova/mcp-otel-go](https://github.com/olgasafonova/mcp-otel-go) 🏎️ - OpenTelemetry instrumentation for Go MCP servers using the official go-sdk. One middleware call adds tracing and metrics for every method, following the OTel semantic conventions for MCP.
 - [DenisTheM/monapi](https://github.com/DenisTheM/monapi) 📇 - Add per-tool x402 micropayments to any MCP server. Agents pay in USDC per tool call — no API keys, no signup. Also supports Express and Next.js.
+- [distronode-corporation/mcp-frontdesk](https://github.com/distronode-corporation/mcp-frontdesk) 📇 - OAuth 2.1 authorization server and access-token gate for remote MCP servers: Client ID Metadata Documents, PKCE S256 and refresh-token rotation with reuse detection. Framework-free (Web Request and Response), one runtime dependency.
 
 ## Utilities
 
@@ -244,6 +245,7 @@ Public test endpoints:
 
 - [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🏎️ - A MCP Server that allows access to gRPC API services.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway
+- [distronode-corporation/mcp-patchbay](https://github.com/distronode-corporation/mcp-patchbay) 📇 - An MCP server that hosts your other MCP servers and lets the agent switch them on and off mid-session. Per-server allow, confirm (a person approves each enable) or deny policies.
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
 - [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 - A lightweight gateway & registry for MCP servers with NAT traversal support, allowing edge devices to provide MCP services across networks. Features include WebSocket/SSE/HTTP endpoints, authentication, IPv6 support, and a CLI tool for easy registration of stdio-based MCP servers.
