@@ -186,6 +186,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [sebastianbuzdugan/framework-rai-mcp](https://github.com/sebastianbuzdugan/framework-rai-mcp) 📇 - A responsible AI MCP server framework focused on ethical deployment in startups and enterprise prototypes.
 - [sendaifun/solana-agent-kit#agent-kit-mcp-server](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - Solana MCP SDK
 - [stephencme/create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
+- [techfreaque/next-vibe](https://github.com/techfreaque/next-vibe) 📇 - TypeScript framework where each endpoint's Zod definition is served as an MCP tool (`vibe mcp`, stdio), a CLI command, a web UI and an AI-callable tool, with no wrapper code.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – Framework to build vertical AI agent
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) 🐍 #️⃣ – Enterprise-ready orchestration framework MCP compatible from Microsoft to build intelligent AI agents and multi-agent systems.
 - [dhyansraj/mcp-mesh](https://github.com/dhyansraj/mcp-mesh) 🐍 📇 - Distributed orchestration framework for MCP servers with automatic discovery, dependency injection, and Kubernetes-native scaling
