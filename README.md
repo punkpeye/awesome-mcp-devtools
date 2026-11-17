@@ -303,6 +303,7 @@ Public test endpoints:
 
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/) — Official MCP specification
 - [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [Roopedia MCP Security Directory](https://roopedia.com/mcp) — Bilingual (EN/FR) security and transport profiles for MCP servers, with an open-source stdio lookup tool ([roopedia-mcp](https://github.com/hajejbusiness/roopedia-mcp))
 
 ## Tutorials
 
