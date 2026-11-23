@@ -60,7 +60,7 @@ A curated list of developer tools, SDKs, libraries, utilities, and resources for
   * 🎯 - Dart codebase
   * 🏎️ – Go codebase
   * 🐍 – Python codebase
-  * 💎 – Ruby codebase
+  * 💎 – Ruby codebase
   * 📇 – TypeScript codebase
   * 🔶 - Kotlin codebase
   * 🦀 – Rust codebase
@@ -247,6 +247,7 @@ Public test endpoints:
 - [emicklei/mcp-log-proxy](https://github.com/emicklei/mcp-log-proxy) 🏎️ - An MCP proxy server that offers a Web UI to see the complete message flow.
 - [EvalsOne/MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers via HTTP/HTTPS
 - [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 - A lightweight gateway & registry for MCP servers with NAT traversal support, allowing edge devices to provide MCP services across networks. Features include WebSocket/SSE/HTTP endpoints, authentication, IPv6 support, and a CLI tool for easy registration of stdio-based MCP servers.
+- [gencay-e/mcp-moat](https://github.com/gencay-e/mcp-moat) 🦀 - Stdio policy proxy for MCP servers with path jails, tool allowlists, terminal approval prompts, secret masking, schema reduction, and a hash-chained audit log.
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) 📇 - An MCP workspace manager to bundle and manage MCP servers in dedicated local workspaces (e.g., for coding, design, research).
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle) 🌳 - Self-hosted MCP Registry and Proxy for ai agents
@@ -292,7 +293,7 @@ Public test endpoints:
 
 > Example code ready to be made into a component of an MCP system.
 
-- [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
+- [fastmcp-boilerplate](https://github.com/punkpeye/fastmcp-boilerplate) 📇 – A simple MCP server built using FastMCP, TypeScript, ESLint, and Prettier.
 - [dart-mcp-server-template](https://github.com/jhgaylor/dart-mcp-server-template) 🎯 - A template repository for creating Dart MCP servers. Provides a starting point with Docker configuration, http+stdio transport bindings, and a standard Dart project structure
 - [rails-mcp-startup-boilerplate](https://github.com/f/mcp-startup-boilerplate) 💎 - A Rails template for creating Paid MCP servers compatible with Claude Integrations. It uses Rails 8.0.2, Devise, Doorkeeper, FastMCP and Stripe. Has a built-in UI.
 
