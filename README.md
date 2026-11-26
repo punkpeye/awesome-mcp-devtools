@@ -278,8 +278,8 @@ Public test endpoints:
 - [addozhang/spring-rest-to-mcp](https://github.com/addozhang/spring-rest-to-mcp) 🏎️ - An [OpenRewrite](https://docs.openrewrite.org/) recipe collection that automatically converts Spring Web REST APIs to Spring AI Model Context Protocol (MCP) server tools.
 - [taskade/mcp](https://github.com/taskade/mcp/tree/main/packages/openapi-codegen) 📇 - Generate MCP tools from OpenAPI schemas. Supports auto-linking, response normalization, and MCP server integration.
 - [type-mcp/mcp-anything](https://github.com/type-mcp/mcp-anything) 🐍 - Auto-generates MCP servers from any codebase or API spec (FastAPI, Flask, Spring Boot, Express, Go, Rails, OpenAPI, GraphQL, gRPC) in one command.
-- - [LLMBucket MCP Config Generator](https://llmbucket.com/tools/mcp-config-generator) - Visual browser-based mcp.json config generator and validator for Claude Desktop, Cursor, and Windsurf.[Writbase/writbase
-- ](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [Writbase/writbase](https://github.com/Writbase/writbase) 📇 - MCP-native task management system for AI agent fleets with multi-agent permissions and inter-agent delegation.
+- [LLMBucket MCP Config Generator](https://llmbucket.com/tools/mcp-config-generator) - Visual browser-based mcp.json config generator and validator for Claude Desktop, Cursor, and Windsurf.
 
 ## Hosting
 
