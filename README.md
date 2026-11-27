@@ -269,6 +269,7 @@ Public test endpoints:
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇 - A CLI based client to chat and connect with any MCP server
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables LLMs to interact with external tools through MCP
 - [rodaddy/mcp2cli](https://github.com/rodaddy/mcp2cli) 📇 - CLI bridge that wraps MCP servers as bash-invokable commands, recovering ~11K tokens of context window per session
+- [SPARDA](https://github.com/zakariagharzouli/sparda) 📇 - Behavioural verification engine for backends: compiles declared routes, mutations, guards, effects and constraints into a deterministic graph, then evaluates verification obligations on it. Runs offline, with a CLI and an MCP runtime.
 - [strowk/mcp-autotest](https://github.com/strowk/mcp-autotest) 🏎️ - A command-line tool for running YAML based language-agnostic autotests
 - [strowk/synf](https://github.com/strowk/synf) 🦀 - Tool to hot-reload MCP server on changes to saved files
 - [strowk/mcptee](https://github.com/strowk/mcptee/) 🏎️ - Tool to proxy MCP and log inputs and outputs to YAML file
